@@ -1,5 +1,5 @@
 //Add recipes
-crafting.shapedBuilder()
+/*crafting.shapedBuilder()
         .name('furnace')
         .output(item('minecraft:furnace'))
         .matrix('CCC',
@@ -22,4 +22,4 @@ crafting.shapedBuilder()
         .register()
 
 crafting.replaceShapeless('manual_logToPlank', item('minecraft:planks') * 2, [ore('logWood')])
-crafting.replaceShapeless('craftingstation', item('tconstruct:tooltables:0'), [ore('craftingTableWood'), ore('toolsSaw')])
+crafting.replaceShapeless('craftingstation', item('tconstruct:tooltables:0'), [ore('craftingTableWood'), ore('toolsSaw')])*/
