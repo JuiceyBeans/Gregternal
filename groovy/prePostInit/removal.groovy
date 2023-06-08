@@ -31,5 +31,5 @@ for(name in recipesToRemove) {
     crafting.remove(name)
 }
 
-crafting.removeByOutput(item('minecraft:piston'))
 furnace.removeByInput(item('tconstruct:soil:0'))
+furnace.removeByInput(item('biomesoplenty:white_sand'))
