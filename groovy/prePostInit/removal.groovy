@@ -17,6 +17,7 @@ def recipesToRemove = [
     'quark:hopper',
     'quark:chest',
     'quark:chest_1',
+    'quark:trapdoor',
     'minecraft:gold_block',
     'minecraft:iron_block',
     'minecraft:diamond_block',

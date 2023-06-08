@@ -43,3 +43,15 @@ crafting.shapedBuilder()
         .key('F', ore('fenceWood'))
         .replace()
         .register()
+
+crafting.shapedBuilder()
+        .name('manual_trapdoor')
+        .output(item('minecraft:trapdoor'))
+        .matrix('SsS',
+                'sTs',
+                'SsS')
+        .key('S', ore('stickWood'))
+        .key('T', ore('toolSaw'))
+        .key('s', ore('slabWood'))
+        .replace()
+        .register()
