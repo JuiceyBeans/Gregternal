@@ -1,0 +1,2 @@
+crafting.replaceShapeless('groutbricks', item('greggant:grout_brick'), [metaitem('wooden_form.brick'), item('tconstruct:soil:0')])
+furnace.add(item('greggant:grout_brick'), item('tconstruct:materials:0'), 0.5f)
