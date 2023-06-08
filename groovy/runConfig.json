@@ -4,10 +4,10 @@
   "version": "0.1-dev",
   "debug": false,
   "classes": [
+    "preInit/registerMaterials.groovy"
   ],
   "loaders": {
     "preInit": [
-      "preInit/registerMaterials",
       "preInit/"
     ],
     "postInit": [
