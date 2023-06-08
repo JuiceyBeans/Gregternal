@@ -11,6 +11,8 @@ saves/
 screenshots/
 server-resource-packs/
 
+.vscode/
+
 .curseclient
 usercache.json
 usernamecache.json
