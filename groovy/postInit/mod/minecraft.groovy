@@ -17,3 +17,29 @@ crafting.shapedBuilder()
         .key('H', ore('toolHammer'))
         .replace()
         .register()
+
+crafting.shapedBuilder()
+        .name('manual_fence')
+        .output(item('minecraft:fence') * 2)
+        .matrix('M S',
+                'PsP',
+                'PsP')
+        .key('P', ore('plankWood'))
+        .key('S', ore('toolSaw'))
+        .key('M', ore('toolMallet'))
+        .key('s', ore('stickWood'))
+        .replace()
+        .register()
+
+crafting.shapedBuilder()
+        .name('bed')
+        .output(item('minecraft:bed'))
+        .matrix(' M ',
+                'WWW',
+                'FPF')
+        .key('W', item('minecraft:wool:0'))
+        .key('P', metaitem('plateWood'))
+        .key('M', ore('toolMallet'))
+        .key('F', ore('fenceWood'))
+        .replace()
+        .register()

@@ -24,7 +24,8 @@ def recipesToRemove = [
     'minecraft:quartz_block',
     'minecraft:coal_block',
     'minecraft:redstone_block',
-    'minecraft:lapis_block'
+    'minecraft:lapis_block',
+    'minecraft:oak_wooden_slab'
     ]
 
 for(name in recipesToRemove) {
