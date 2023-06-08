@@ -9,3 +9,5 @@ crafting.shapedBuilder()
         .key('H', ore('toolHammer'))
         .replace()
         .register()
+
+crafting.replaceShapeless('compressed_clay', metaitem('compressed.clay'), [metaitem('wooden_form.brick'), item('minecraft:clay')])
