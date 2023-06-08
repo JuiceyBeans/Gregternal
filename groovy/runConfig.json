@@ -1,0 +1,18 @@
+{
+  "packName": "En Greggant (working title)",
+  "packId": "greggant",
+  "version": "0.1-dev",
+  "debug": false,
+  "classes": [
+  ],
+  "loaders": {
+    "preInit": [
+      "preInit/registerMaterials",
+      "preInit/"
+    ],
+    "postInit": [
+      "prePostInit/",
+      "postInit/"
+    ]
+  }
+}

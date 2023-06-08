@@ -1,0 +1,1 @@
+crafting.replaceShapeless('thermite', item('advancedrocketry:thermite') * 3, [metaitem('dustIron'),  metaitem('dustIron'), metaitem('dustAluminium')])

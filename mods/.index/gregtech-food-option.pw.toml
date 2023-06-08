@@ -1,0 +1,14 @@
+name = "GregTech Food Option"
+filename = "GregTech Food Option-1.12.2-1.9.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "91c3717fcf87f47d4817468d309832d32505c247"
+
+[update]
+[update.curseforge]
+file-id = 4555292
+project-id = 477021
