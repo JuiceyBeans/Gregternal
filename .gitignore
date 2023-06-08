@@ -25,3 +25,7 @@ icon.png
 *.log
 *.txt
 *.dll
+config/splash.properties
+config/brandon3055/contributors.json
+config/InvTweaks/InvTweaks.cfg
+config/betterquesting.cfg
