@@ -25,6 +25,7 @@ icon.png
 *.log
 *.txt
 *.dll
+
 config/splash.properties
 config/brandon3055/contributors.json
 config/InvTweaks/InvTweaks.cfg
@@ -35,4 +36,3 @@ config/InvTweaks/InvTweaks.cfg
 config/splash.properties
 mods/AAInfo-1.0.1.jar
 mods/AAInfo-1.0.1.jar.disabled
-mods/AAInfo-1.0.1.jar
