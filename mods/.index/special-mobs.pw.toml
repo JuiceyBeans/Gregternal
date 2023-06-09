@@ -1,0 +1,14 @@
+name = "Special Mobs"
+filename = "specialmobs-1.0.4_for_mc1.12.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9da80e3c81a9ed0577ca6989385e3dfe210aae79"
+
+[update]
+[update.curseforge]
+file-id = 3320102
+project-id = 59968

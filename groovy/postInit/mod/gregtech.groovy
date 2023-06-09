@@ -24,4 +24,15 @@ crafting.shapedBuilder()
         .replace()
         .register()
 
+crafting.shapedBuilder()
+        .name('compressedclay')
+        .output(metaitem('compressed.clay'))
+        .matrix('CCC',
+                'CFC',
+                'CCC')
+        .key('C', metaitem('dustclay')).
+        .key('F', metaitem('wooden_form.brick'))
+        .replace()
+        .register()
+
 crafting.replaceShapeless('compressed_clay', metaitem('compressed.clay'), [metaitem('wooden_form.brick'), item('minecraft:clay')])
