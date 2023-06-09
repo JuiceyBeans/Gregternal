@@ -1,3 +1,4 @@
+#Client-sided folders
 .mixin.out/
 crash-reports/
 local/
@@ -10,9 +11,13 @@ texturepacks/
 saves/
 screenshots/
 server-resource-packs/
+mods/1.12.2
+mods/.index
+mods/OpenTerrainGenerator
 
 .vscode/
 
+#Prism files
 .curseclient
 usercache.json
 usernamecache.json
@@ -26,6 +31,7 @@ icon.png
 *.txt
 *.dll
 
+#Client-sided configs
 config/splash.properties
 config/brandon3055/contributors.json
 config/InvTweaks/InvTweaks.cfg
