@@ -4108,6 +4108,106 @@ appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
 baubles:ring:0, Miner's Ring
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, item.tallow.name
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:charcoal_block, tile.charcoal_block.name
+quark:glass_item_frame, item.glass_item_frame.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -4428,23 +4528,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:chute, tile.chute.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
@@ -4462,106 +4545,6 @@ quark:redstone_inductor, tile.redstone_inductor.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
 quark:chain, item.chain.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:charcoal_block, tile.charcoal_block.name
-quark:glass_item_frame, item.glass_item_frame.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -4686,6 +4669,23 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:witch_hat, item.witch_hat.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
@@ -4732,1180 +4732,6 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
-enderio:item_enderface, Enderface
-enderio:item_conduit_facade:0, Conduit Facade
-enderio:item_conduit_facade:1, Hardened Conduit Facade
-enderio:item_conduit_facade:2, Transparent Conduit Facade
-enderio:item_conduit_facade:3, Transparent Hardened Conduit Facade
-enderio:item_basic_capacitor:0, Basic Capacitor
-enderio:item_basic_capacitor:1, Double-Layer Capacitor
-enderio:item_basic_capacitor:2, Octadic Capacitor
-enderio:block_alloy:0, Electrical Steel Block
-enderio:block_alloy:1, Energetic Alloy Block
-enderio:block_alloy:2, Vibrant Alloy Block
-enderio:block_alloy:3, Redstone Alloy Block
-enderio:block_alloy:4, Conductive Iron Block
-enderio:block_alloy:5, Pulsating Iron Block
-enderio:block_alloy:6, Dark Steel Block
-enderio:block_alloy:7, Soularium Block
-enderio:block_alloy:8, End Steel Block
-enderio:block_alloy:9, Iron Alloy Block
-enderio:item_alloy_ingot:0, Electrical Steel Ingot
-enderio:item_alloy_ingot:1, Energetic Alloy Ingot
-enderio:item_alloy_ingot:2, Vibrant Alloy Ingot
-enderio:item_alloy_ingot:3, Redstone Alloy Ingot
-enderio:item_alloy_ingot:4, Conductive Iron Ingot
-enderio:item_alloy_ingot:5, Pulsating Iron Ingot
-enderio:item_alloy_ingot:6, Dark Steel Ingot
-enderio:item_alloy_ingot:7, Soularium Ingot
-enderio:item_alloy_ingot:8, End Steel Ingot
-enderio:item_alloy_ingot:9, Iron Alloy Ingot
-enderio:item_alloy_nugget:0, Electrical Steel Nugget
-enderio:item_alloy_nugget:1, Energetic Alloy Nugget
-enderio:item_alloy_nugget:2, Vibrant Alloy Nugget
-enderio:item_alloy_nugget:3, Redstone Alloy Nugget
-enderio:item_alloy_nugget:4, Conductive Iron Nugget
-enderio:item_alloy_nugget:5, Pulsating Iron Nugget
-enderio:item_alloy_nugget:6, Dark Steel Nugget
-enderio:item_alloy_nugget:7, Soularium Nugget
-enderio:item_alloy_nugget:8, End Steel Nugget
-enderio:item_alloy_nugget:9, Iron Alloy Nugget
-enderio:item_alloy_ball:0, Electrical Steel Grinding Ball
-enderio:item_alloy_ball:1, Energetic Alloy Grinding Ball
-enderio:item_alloy_ball:2, Vibrant Alloy Grinding Ball
-enderio:item_alloy_ball:3, Redstone Alloy Grinding Ball
-enderio:item_alloy_ball:4, Conductive Iron Grinding Ball
-enderio:item_alloy_ball:5, Pulsating Iron Grinding Ball
-enderio:item_alloy_ball:6, Dark Steel Grinding Ball
-enderio:item_alloy_ball:7, Soularium Grinding Ball
-enderio:item_alloy_ball:8, End Steel Grinding Ball
-enderio:item_alloy_ball:9, Iron Alloy Grinding Ball
-enderio:item_material:0, Simple Machine Chassis
-enderio:item_material:1, Industrial Machine Chassis
-enderio:item_material:2, Machine Parts
-enderio:item_material:3, Photovoltaic Plate
-enderio:item_material:4, Conduit Binder
-enderio:item_material:5, Silicon
-enderio:item_material:6, Glider Wing
-enderio:item_material:7, Glider Wings
-enderio:item_material:8, Nutritious Stick
-enderio:item_material:9, Wooden Gear
-enderio:item_material:10, Stone Compound Gear
-enderio:item_material:11, Infinity Bimetal Gear
-enderio:item_material:12, Energized Bimetal Gear
-enderio:item_material:13, Vibrant Bimetal Gear
-enderio:item_material:14, Pulsating Crystal
-enderio:item_material:15, Vibrant Crystal
-enderio:item_material:16, Ender Crystal
-enderio:item_material:17, Enticing Crystal
-enderio:item_material:18, Weather Crystal
-enderio:item_material:19, Prescient Crystal
-enderio:item_material:20, Grains of Infinity
-enderio:item_material:21, Flour
-enderio:item_material:22, Conduit Binder Composite
-enderio:item_material:23, Coal Powder
-enderio:item_material:24, Iron Powder
-enderio:item_material:25, Gold Powder
-enderio:item_material:26, Copper Powder
-enderio:item_material:27, Tin Powder
-enderio:item_material:28, Ender Pearl Powder
-enderio:item_material:29, Obsidian Powder
-enderio:item_material:30, Ardite Powder
-enderio:item_material:31, Cobalt Powder
-enderio:item_material:32, Lapis Lazuli Powder
-enderio:item_material:33, Quartz Powder
-enderio:item_material:34, Grains of Prescience
-enderio:item_material:35, Grains of Vibrancy
-enderio:item_material:36, Grains of Piezallity
-enderio:item_material:37, Grains of the End
-enderio:item_material:38, Photovoltaic Composite
-enderio:item_material:40, Zombie Electrode
-enderio:item_material:41, Z-Logic Controller
-enderio:item_material:42, Frank'N'Zombie
-enderio:item_material:43, Ender Resonator
-enderio:item_material:44, Sentient Ender
-enderio:item_material:45, Skeletal Contractor
-enderio:item_material:46, Clippings and Trimmings
-enderio:item_material:47, Twigs and Prunings
-enderio:item_material:48, Organic Green Dye
-enderio:item_material:49, Organic Brown Dye
-enderio:item_material:50, Organic Black Dye
-enderio:item_material:51, Industrial Dye Blend
-enderio:item_material:52, Soul Attuned Dye Blend
-enderio:item_material:53, Soul Machine Chassis
-enderio:item_material:54, Enhanced Machine Chassis
-enderio:item_material:55, Soulless Machine Chassis
-enderio:item_material:56, Guardian Diode
-enderio:item_material:57, Signalum Grinding Ball
-enderio:item_material:58, Enderium Grinding Ball
-enderio:item_material:59, Lumium Grinding Ball
-enderio:item_material:60, Redstone Filter Base
-enderio:item_material:61, Confusing Powder
-enderio:item_material:62, Ender Fragment
-enderio:item_material:63, Withering Dust
-enderio:item_material:64, Remote Awareness Upgrade
-enderio:item_material:65, Wireless Energy Transmitter Dish Assembly
-enderio:item_material:66, End Steel Chassis
-enderio:item_material:67, Enhanced Dye Blend
-enderio:item_material:68, Enhanced Machine Parts
-enderio:item_material:69, Simple Machine Parts
-enderio:item_material:70, Cake Base
-enderio:item_material:71, Infinity Rod
-enderio:item_material:72, Nethercotta
-enderio:item_material:73, Dark Bimetal Gear
-enderio:item_material:74, Soul Powder
-enderio:item_material:75, Infinity Reagent
-enderio:item_material:76, Clay-Coated Glowstone Dust
-enderio:item_material:77, Black Paper
-enderio:item_material:78, Animal Token
-enderio:item_material:79, Monster Token
-enderio:item_material:80, Player Token
-enderio:item_material:81, Unfired Death Urn
-enderio:item_broken_spawner:0, Broken Spawner
-enderio:block_infinity_fog:0, Infinity Dust
-enderio:block_infinity:0, Infinity Dust Block
-enderio:block_infinity:1, Compressed Infinity Dust Block
-enderio:block_infinity:2, Double Compressed Infinity Dust Block
-enderio:block_holy_fog, Glowstone Nano-Particles (old)
-enderio:block_holier_fog, Glowstone Nano-Particles
-enderio:block_dark_steel_anvil:0, Dark Steel Anvil
-enderio:block_dark_steel_anvil:1, Slightly Damaged Dark Steel Anvil
-enderio:block_dark_steel_anvil:2, Very Damaged Dark Steel Anvil
-enderio:block_dark_paper_anvil:0, Dark Paper Anvil
-enderio:block_dark_paper_anvil:1, Slightly Damaged Dark Paper Anvil
-enderio:block_dark_paper_anvil:2, Very Damaged Dark Paper Anvil
-enderio:block_dark_steel_ladder, Dark Steel Ladder
-enderio:block_dark_iron_bars, Dark Iron Bars
-enderio:block_dark_steel_trapdoor, Dark Steel Trapdoor
-enderio:block_dark_steel_door, Dark Steel Door
-enderio:block_reinforced_obsidian, Reinforced Obsidian
-enderio:block_self_resetting_lever5, Self-resetting Lever (5 seconds)
-enderio:block_self_resetting_lever10, Self-resetting Lever (10 seconds)
-enderio:block_self_resetting_lever30, Self-resetting Lever (30 seconds)
-enderio:block_self_resetting_lever60, Self-resetting Lever (1 Minute)
-enderio:block_self_resetting_lever300, Self-resetting Lever (5 Minutes)
-enderio:block_self_resetting_lever5i, Inverted Self-resetting Lever (5 seconds)
-enderio:block_self_resetting_lever10i, Inverted Self-resetting Lever (10 seconds)
-enderio:block_self_resetting_lever30i, Inverted Self-resetting Lever (30 seconds)
-enderio:block_self_resetting_lever60i, Inverted Self-resetting Lever (1 Minute)
-enderio:block_self_resetting_lever300i, Inverted Self-resetting Lever (5 Minutes)
-enderio:block_decoration1:0, Machine Chassis (decoration block)
-enderio:block_decoration1:1, Blank Machine (decoration block)
-enderio:block_decoration1:2, Machine Tops (decoration block)
-enderio:block_decoration1:3, Machine Sides (decoration block)
-enderio:block_decoration1:4, Machine Backs (decoration block)
-enderio:block_decoration1:5, Machine with sides (decoration block)
-enderio:block_decoration1:6, Machine width backs (decoration block)
-enderio:block_decoration1:7, Blank Soul Machine (decoration block)
-enderio:block_decoration1:8, Soul Machine Tops (decoration block)
-enderio:block_decoration1:9, Soul Machine Sides (decoration block)
-enderio:block_decoration1:10, Soul Machine Backs (decoration block)
-enderio:block_decoration1:11, Soul Machine with sides (decoration block)
-enderio:block_decoration1:12, Soul Machine width backs (decoration block)
-enderio:block_decoration1:13, Red Machine (decoration block)
-enderio:block_decoration1:14, Broken Spawner (decoration block)
-enderio:block_decoration1:15, Invisible Block (decoration block)
-enderio:block_decoration2:0, Alloy Smelter (decoration block)
-enderio:block_decoration2:1, Item Buffer (decoration block)
-enderio:block_decoration2:2, Power Buffer (decoration block)
-enderio:block_decoration2:3, Omni Buffer (decoration block)
-enderio:block_decoration2:4, Creative Buffer (decoration block)
-enderio:block_decoration2:5, Crafter (decoration block)
-enderio:block_decoration2:6, Painting Machine (decoration block)
-enderio:block_decoration2:7, Power Monitor (decoration block)
-enderio:block_decoration2:8, SAG Mill (decoration block)
-enderio:block_decoration2:9, Slice'N'Splice (decoration block)
-enderio:block_decoration2:10, Stirling Generator (decoration block)
-enderio:block_decoration2:11, Fluid Tank (decoration block)
-enderio:block_decoration2:12, Pressurized Fluid Tank (decoration block)
-enderio:block_decoration2:13, Travel Anchor (decoration block)
-enderio:block_decoration2:14, Vacuum Chest (decoration block)
-enderio:block_decoration2:15, Wireless Charger (decoration block)
-enderio:block_decoration3:0, XP Vacuum (decoration block)
-enderio:block_decoration3:1, Simple Alloy Smelter (decoration block)
-enderio:block_decoration3:2, Simple Stirling Generator (decoration block)
-enderio:block_decoration3:3, Wired Charger (decoration block)
-enderio:block_decoration3:4, Simple Sagmill (decoration block)
-enderio:block_industrial_insulation, Industrial Insulation
-enderio:block_end_iron_bars, End Steel Bars
-enderio:block_confusion_charge, Confusion Charge
-enderio:block_concussion_charge, Concussion Charge
-enderio:block_ender_charge, Ender Charge
-enderio:block_painted_slab, Painted Slab
-enderio:block_painted_stone_slab, Painted Stone Slab
-enderio:block_painted_pressure_plate:1, Wooden Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:3, Stone Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:5, Weighted Pressure Plate (Heavy) (Silent)
-enderio:block_painted_pressure_plate:7, Weighted Pressure Plate (Light) (Silent)
-enderio:block_painted_pressure_plate:8, Dark Pressure Plate
-enderio:block_painted_pressure_plate:9, Dark Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:10, Soularium Pressure Plate
-enderio:block_painted_pressure_plate:11, Soularium Pressure Plate (Silent)
-enderio:block_painted_pressure_plate:12, Soularium Pressure Plate (Tuned)
-enderio:block_painted_pressure_plate:13, Soularium Pressure Plate (Tuned) (Silent)
-enderio:block_painted_wooden_door, Painted Wooden Door
-enderio:block_painted_iron_door, Painted Iron Door
-enderio:block_painted_dark_steel_door, Painted Dark Steel Door
-enderio:block_exit_rail, Exit Rail
-enderio:item_conduit_probe:0, Conduit Probe
-enderio:item_yeta_wrench, Yeta Wrench
-enderio:item_xp_transfer:0, Experience Rod
-enderio:item_cold_fire_igniter, Cold Fire Igniter
-enderio:item_coord_selector, Coordinate Selector
-enderio:item_location_printout, Location Printout
-enderio:item_travel_staff:0, Staff of Traveling
-enderio:item_travel_staff:0, Staff of Traveling
-enderio:item_rod_of_return:0, Rod of Return
-enderio:item_rod_of_return:0, Rod of Return
-enderio:item_magnet:0, Electromagnet
-enderio:item_magnet:0, Electromagnet
-enderio:block_enderman_skull:0, Enderman Head
-enderio:block_enderman_skull:2, Tormented Enderman Head
-enderio:item_ender_food:0, "Enderios"
-enderio:item_basic_item_filter:0, Basic Item Filter
-enderio:item_advanced_item_filter:0, Advanced Item Filter
-enderio:item_limited_item_filter:0, Limited Item Filter
-enderio:item_big_item_filter:0, Big Item Filter
-enderio:item_big_advanced_item_filter:0, Advanced Big Item Filter
-enderio:item_existing_item_filter:0, Existing Item Filter
-enderio:item_mod_item_filter:0, Mod Item Filter
-enderio:item_power_item_filter:0, Power Item Filter
-enderio:item_soul_filter_normal:0, Soul Item Filter
-enderio:item_soul_filter_big:0, Big Soul Item Filter
-enderio:item_enchantment_filter_normal:0, Enchantment Item Filter
-enderio:item_enchantment_filter_big:0, Big Enchantment Item Filter
-enderio:item_fluid_filter:0, Basic Fluid Filter
-enderio:item_redstone_not_filter:0, Redstone NOT Filter
-enderio:item_redstone_or_filter:0, Redstone OR Filter
-enderio:item_redstone_and_filter:0, Redstone AND Filter
-enderio:item_redstone_nor_filter:0, Redstone NOR Filter
-enderio:item_redstone_nand_filter:0, Redstone NAND Filter
-enderio:item_redstone_xor_filter:0, Redstone XOR Filter
-enderio:item_redstone_xnor_filter:0, Redstone XNOR Filter
-enderio:item_redstone_toggle_filter:0, Redstone Toggle Latch Filter
-enderio:item_redstone_counting_filter:0, Redstone Counting Filter
-enderio:item_redstone_sensor_filter:0, Redstone Sensor Filter
-enderio:item_redstone_timer_filter:0, Redstone Timer Filter
-enderio:block_fused_quartz:0, Fused Quartz
-enderio:block_fused_quartz:1, Fused Quartz
-enderio:block_fused_quartz:2, Fused Quartz
-enderio:block_fused_quartz:3, Fused Quartz
-enderio:block_fused_quartz:4, Fused Quartz
-enderio:block_fused_quartz:5, Fused Quartz
-enderio:block_fused_quartz:6, Fused Quartz
-enderio:block_fused_quartz:7, Fused Quartz
-enderio:block_fused_quartz:8, Fused Quartz
-enderio:block_fused_quartz:9, Fused Quartz
-enderio:block_fused_quartz:10, Fused Quartz
-enderio:block_fused_quartz:11, Fused Quartz
-enderio:block_fused_quartz:12, Fused Quartz
-enderio:block_fused_quartz:13, Fused Quartz
-enderio:block_fused_quartz:14, Fused Quartz
-enderio:block_fused_quartz:15, Fused Quartz
-enderio:block_fused_glass:0, Quite Clear Glass
-enderio:block_fused_glass:1, Quite Clear Glass
-enderio:block_fused_glass:2, Quite Clear Glass
-enderio:block_fused_glass:3, Quite Clear Glass
-enderio:block_fused_glass:4, Quite Clear Glass
-enderio:block_fused_glass:5, Quite Clear Glass
-enderio:block_fused_glass:6, Quite Clear Glass
-enderio:block_fused_glass:7, Quite Clear Glass
-enderio:block_fused_glass:8, Quite Clear Glass
-enderio:block_fused_glass:9, Quite Clear Glass
-enderio:block_fused_glass:10, Quite Clear Glass
-enderio:block_fused_glass:11, Quite Clear Glass
-enderio:block_fused_glass:12, Quite Clear Glass
-enderio:block_fused_glass:13, Quite Clear Glass
-enderio:block_fused_glass:14, Quite Clear Glass
-enderio:block_fused_glass:15, Quite Clear Glass
-enderio:block_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_dark_fused_glass:0, Dark Clear Glass
-enderio:block_dark_fused_glass:1, Dark Clear Glass
-enderio:block_dark_fused_glass:2, Dark Clear Glass
-enderio:block_dark_fused_glass:3, Dark Clear Glass
-enderio:block_dark_fused_glass:4, Dark Clear Glass
-enderio:block_dark_fused_glass:5, Dark Clear Glass
-enderio:block_dark_fused_glass:6, Dark Clear Glass
-enderio:block_dark_fused_glass:7, Dark Clear Glass
-enderio:block_dark_fused_glass:8, Dark Clear Glass
-enderio:block_dark_fused_glass:9, Dark Clear Glass
-enderio:block_dark_fused_glass:10, Dark Clear Glass
-enderio:block_dark_fused_glass:11, Dark Clear Glass
-enderio:block_dark_fused_glass:12, Dark Clear Glass
-enderio:block_dark_fused_glass:13, Dark Clear Glass
-enderio:block_dark_fused_glass:14, Dark Clear Glass
-enderio:block_dark_fused_glass:15, Dark Clear Glass
-enderio:block_holy_fused_quartz:0, Fused Quartz
-enderio:block_holy_fused_quartz:1, Fused Quartz
-enderio:block_holy_fused_quartz:2, Fused Quartz
-enderio:block_holy_fused_quartz:3, Fused Quartz
-enderio:block_holy_fused_quartz:4, Fused Quartz
-enderio:block_holy_fused_quartz:5, Fused Quartz
-enderio:block_holy_fused_quartz:6, Fused Quartz
-enderio:block_holy_fused_quartz:7, Fused Quartz
-enderio:block_holy_fused_quartz:8, Fused Quartz
-enderio:block_holy_fused_quartz:9, Fused Quartz
-enderio:block_holy_fused_quartz:10, Fused Quartz
-enderio:block_holy_fused_quartz:11, Fused Quartz
-enderio:block_holy_fused_quartz:12, Fused Quartz
-enderio:block_holy_fused_quartz:13, Fused Quartz
-enderio:block_holy_fused_quartz:14, Fused Quartz
-enderio:block_holy_fused_quartz:15, Fused Quartz
-enderio:block_holy_fused_glass:0, Quite Clear Glass
-enderio:block_holy_fused_glass:1, Quite Clear Glass
-enderio:block_holy_fused_glass:2, Quite Clear Glass
-enderio:block_holy_fused_glass:3, Quite Clear Glass
-enderio:block_holy_fused_glass:4, Quite Clear Glass
-enderio:block_holy_fused_glass:5, Quite Clear Glass
-enderio:block_holy_fused_glass:6, Quite Clear Glass
-enderio:block_holy_fused_glass:7, Quite Clear Glass
-enderio:block_holy_fused_glass:8, Quite Clear Glass
-enderio:block_holy_fused_glass:9, Quite Clear Glass
-enderio:block_holy_fused_glass:10, Quite Clear Glass
-enderio:block_holy_fused_glass:11, Quite Clear Glass
-enderio:block_holy_fused_glass:12, Quite Clear Glass
-enderio:block_holy_fused_glass:13, Quite Clear Glass
-enderio:block_holy_fused_glass:14, Quite Clear Glass
-enderio:block_holy_fused_glass:15, Quite Clear Glass
-enderio:block_holy_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_holy_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_holy_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_holy_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_holy_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_holy_dark_fused_glass:0, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:1, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:2, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:3, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:4, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:5, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:6, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:7, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:8, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:9, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:10, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:11, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:12, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:13, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:14, Dark Clear Glass
-enderio:block_holy_dark_fused_glass:15, Dark Clear Glass
-enderio:block_unholy_fused_quartz:0, Fused Quartz
-enderio:block_unholy_fused_quartz:1, Fused Quartz
-enderio:block_unholy_fused_quartz:2, Fused Quartz
-enderio:block_unholy_fused_quartz:3, Fused Quartz
-enderio:block_unholy_fused_quartz:4, Fused Quartz
-enderio:block_unholy_fused_quartz:5, Fused Quartz
-enderio:block_unholy_fused_quartz:6, Fused Quartz
-enderio:block_unholy_fused_quartz:7, Fused Quartz
-enderio:block_unholy_fused_quartz:8, Fused Quartz
-enderio:block_unholy_fused_quartz:9, Fused Quartz
-enderio:block_unholy_fused_quartz:10, Fused Quartz
-enderio:block_unholy_fused_quartz:11, Fused Quartz
-enderio:block_unholy_fused_quartz:12, Fused Quartz
-enderio:block_unholy_fused_quartz:13, Fused Quartz
-enderio:block_unholy_fused_quartz:14, Fused Quartz
-enderio:block_unholy_fused_quartz:15, Fused Quartz
-enderio:block_unholy_fused_glass:0, Quite Clear Glass
-enderio:block_unholy_fused_glass:1, Quite Clear Glass
-enderio:block_unholy_fused_glass:2, Quite Clear Glass
-enderio:block_unholy_fused_glass:3, Quite Clear Glass
-enderio:block_unholy_fused_glass:4, Quite Clear Glass
-enderio:block_unholy_fused_glass:5, Quite Clear Glass
-enderio:block_unholy_fused_glass:6, Quite Clear Glass
-enderio:block_unholy_fused_glass:7, Quite Clear Glass
-enderio:block_unholy_fused_glass:8, Quite Clear Glass
-enderio:block_unholy_fused_glass:9, Quite Clear Glass
-enderio:block_unholy_fused_glass:10, Quite Clear Glass
-enderio:block_unholy_fused_glass:11, Quite Clear Glass
-enderio:block_unholy_fused_glass:12, Quite Clear Glass
-enderio:block_unholy_fused_glass:13, Quite Clear Glass
-enderio:block_unholy_fused_glass:14, Quite Clear Glass
-enderio:block_unholy_fused_glass:15, Quite Clear Glass
-enderio:block_unholy_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_unholy_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_unholy_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_unholy_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_unholy_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_unholy_dark_fused_glass:0, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:1, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:2, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:3, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:4, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:5, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:6, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:7, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:8, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:9, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:10, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:11, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:12, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:13, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:14, Dark Clear Glass
-enderio:block_unholy_dark_fused_glass:15, Dark Clear Glass
-enderio:block_pasture_fused_quartz:0, Fused Quartz
-enderio:block_pasture_fused_quartz:1, Fused Quartz
-enderio:block_pasture_fused_quartz:2, Fused Quartz
-enderio:block_pasture_fused_quartz:3, Fused Quartz
-enderio:block_pasture_fused_quartz:4, Fused Quartz
-enderio:block_pasture_fused_quartz:5, Fused Quartz
-enderio:block_pasture_fused_quartz:6, Fused Quartz
-enderio:block_pasture_fused_quartz:7, Fused Quartz
-enderio:block_pasture_fused_quartz:8, Fused Quartz
-enderio:block_pasture_fused_quartz:9, Fused Quartz
-enderio:block_pasture_fused_quartz:10, Fused Quartz
-enderio:block_pasture_fused_quartz:11, Fused Quartz
-enderio:block_pasture_fused_quartz:12, Fused Quartz
-enderio:block_pasture_fused_quartz:13, Fused Quartz
-enderio:block_pasture_fused_quartz:14, Fused Quartz
-enderio:block_pasture_fused_quartz:15, Fused Quartz
-enderio:block_pasture_fused_glass:0, Quite Clear Glass
-enderio:block_pasture_fused_glass:1, Quite Clear Glass
-enderio:block_pasture_fused_glass:2, Quite Clear Glass
-enderio:block_pasture_fused_glass:3, Quite Clear Glass
-enderio:block_pasture_fused_glass:4, Quite Clear Glass
-enderio:block_pasture_fused_glass:5, Quite Clear Glass
-enderio:block_pasture_fused_glass:6, Quite Clear Glass
-enderio:block_pasture_fused_glass:7, Quite Clear Glass
-enderio:block_pasture_fused_glass:8, Quite Clear Glass
-enderio:block_pasture_fused_glass:9, Quite Clear Glass
-enderio:block_pasture_fused_glass:10, Quite Clear Glass
-enderio:block_pasture_fused_glass:11, Quite Clear Glass
-enderio:block_pasture_fused_glass:12, Quite Clear Glass
-enderio:block_pasture_fused_glass:13, Quite Clear Glass
-enderio:block_pasture_fused_glass:14, Quite Clear Glass
-enderio:block_pasture_fused_glass:15, Quite Clear Glass
-enderio:block_pasture_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_pasture_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_pasture_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_pasture_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_pasture_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_pasture_dark_fused_glass:0, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:1, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:2, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:3, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:4, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:5, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:6, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:7, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:8, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:9, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:10, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:11, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:12, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:13, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:14, Dark Clear Glass
-enderio:block_pasture_dark_fused_glass:15, Dark Clear Glass
-enderio:block_not_holy_fused_quartz:0, Fused Quartz
-enderio:block_not_holy_fused_quartz:1, Fused Quartz
-enderio:block_not_holy_fused_quartz:2, Fused Quartz
-enderio:block_not_holy_fused_quartz:3, Fused Quartz
-enderio:block_not_holy_fused_quartz:4, Fused Quartz
-enderio:block_not_holy_fused_quartz:5, Fused Quartz
-enderio:block_not_holy_fused_quartz:6, Fused Quartz
-enderio:block_not_holy_fused_quartz:7, Fused Quartz
-enderio:block_not_holy_fused_quartz:8, Fused Quartz
-enderio:block_not_holy_fused_quartz:9, Fused Quartz
-enderio:block_not_holy_fused_quartz:10, Fused Quartz
-enderio:block_not_holy_fused_quartz:11, Fused Quartz
-enderio:block_not_holy_fused_quartz:12, Fused Quartz
-enderio:block_not_holy_fused_quartz:13, Fused Quartz
-enderio:block_not_holy_fused_quartz:14, Fused Quartz
-enderio:block_not_holy_fused_quartz:15, Fused Quartz
-enderio:block_not_holy_fused_glass:0, Quite Clear Glass
-enderio:block_not_holy_fused_glass:1, Quite Clear Glass
-enderio:block_not_holy_fused_glass:2, Quite Clear Glass
-enderio:block_not_holy_fused_glass:3, Quite Clear Glass
-enderio:block_not_holy_fused_glass:4, Quite Clear Glass
-enderio:block_not_holy_fused_glass:5, Quite Clear Glass
-enderio:block_not_holy_fused_glass:6, Quite Clear Glass
-enderio:block_not_holy_fused_glass:7, Quite Clear Glass
-enderio:block_not_holy_fused_glass:8, Quite Clear Glass
-enderio:block_not_holy_fused_glass:9, Quite Clear Glass
-enderio:block_not_holy_fused_glass:10, Quite Clear Glass
-enderio:block_not_holy_fused_glass:11, Quite Clear Glass
-enderio:block_not_holy_fused_glass:12, Quite Clear Glass
-enderio:block_not_holy_fused_glass:13, Quite Clear Glass
-enderio:block_not_holy_fused_glass:14, Quite Clear Glass
-enderio:block_not_holy_fused_glass:15, Quite Clear Glass
-enderio:block_not_holy_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_not_holy_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_not_holy_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_not_holy_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_not_holy_dark_fused_glass:0, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:1, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:2, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:3, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:4, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:5, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:6, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:7, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:8, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:9, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:10, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:11, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:12, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:13, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:14, Dark Clear Glass
-enderio:block_not_holy_dark_fused_glass:15, Dark Clear Glass
-enderio:block_not_unholy_fused_quartz:0, Fused Quartz
-enderio:block_not_unholy_fused_quartz:1, Fused Quartz
-enderio:block_not_unholy_fused_quartz:2, Fused Quartz
-enderio:block_not_unholy_fused_quartz:3, Fused Quartz
-enderio:block_not_unholy_fused_quartz:4, Fused Quartz
-enderio:block_not_unholy_fused_quartz:5, Fused Quartz
-enderio:block_not_unholy_fused_quartz:6, Fused Quartz
-enderio:block_not_unholy_fused_quartz:7, Fused Quartz
-enderio:block_not_unholy_fused_quartz:8, Fused Quartz
-enderio:block_not_unholy_fused_quartz:9, Fused Quartz
-enderio:block_not_unholy_fused_quartz:10, Fused Quartz
-enderio:block_not_unholy_fused_quartz:11, Fused Quartz
-enderio:block_not_unholy_fused_quartz:12, Fused Quartz
-enderio:block_not_unholy_fused_quartz:13, Fused Quartz
-enderio:block_not_unholy_fused_quartz:14, Fused Quartz
-enderio:block_not_unholy_fused_quartz:15, Fused Quartz
-enderio:block_not_unholy_fused_glass:0, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:1, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:2, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:3, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:4, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:5, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:6, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:7, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:8, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:9, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:10, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:11, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:12, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:13, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:14, Quite Clear Glass
-enderio:block_not_unholy_fused_glass:15, Quite Clear Glass
-enderio:block_not_unholy_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_not_unholy_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_not_unholy_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_not_unholy_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_not_unholy_dark_fused_glass:0, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:1, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:2, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:3, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:4, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:5, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:6, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:7, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:8, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:9, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:10, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:11, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:12, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:13, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:14, Dark Clear Glass
-enderio:block_not_unholy_dark_fused_glass:15, Dark Clear Glass
-enderio:block_not_pasture_fused_quartz:0, Fused Quartz
-enderio:block_not_pasture_fused_quartz:1, Fused Quartz
-enderio:block_not_pasture_fused_quartz:2, Fused Quartz
-enderio:block_not_pasture_fused_quartz:3, Fused Quartz
-enderio:block_not_pasture_fused_quartz:4, Fused Quartz
-enderio:block_not_pasture_fused_quartz:5, Fused Quartz
-enderio:block_not_pasture_fused_quartz:6, Fused Quartz
-enderio:block_not_pasture_fused_quartz:7, Fused Quartz
-enderio:block_not_pasture_fused_quartz:8, Fused Quartz
-enderio:block_not_pasture_fused_quartz:9, Fused Quartz
-enderio:block_not_pasture_fused_quartz:10, Fused Quartz
-enderio:block_not_pasture_fused_quartz:11, Fused Quartz
-enderio:block_not_pasture_fused_quartz:12, Fused Quartz
-enderio:block_not_pasture_fused_quartz:13, Fused Quartz
-enderio:block_not_pasture_fused_quartz:14, Fused Quartz
-enderio:block_not_pasture_fused_quartz:15, Fused Quartz
-enderio:block_not_pasture_fused_glass:0, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:1, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:2, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:3, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:4, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:5, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:6, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:7, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:8, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:9, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:10, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:11, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:12, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:13, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:14, Quite Clear Glass
-enderio:block_not_pasture_fused_glass:15, Quite Clear Glass
-enderio:block_not_pasture_enlightened_fused_quartz:0, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:1, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:2, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:3, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:4, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:5, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:6, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:7, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:8, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:9, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:10, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:11, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:12, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:13, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:14, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_quartz:15, Enlightened Fused Quartz
-enderio:block_not_pasture_enlightened_fused_glass:0, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:1, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:2, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:3, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:4, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:5, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:6, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:7, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:8, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:9, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:10, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:11, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:12, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:13, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:14, Enlightened Clear Glass
-enderio:block_not_pasture_enlightened_fused_glass:15, Enlightened Clear Glass
-enderio:block_not_pasture_dark_fused_quartz:0, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:1, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:2, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:3, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:4, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:5, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:6, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:7, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:8, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:9, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:10, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:11, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:12, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:13, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:14, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_quartz:15, Dark Fused Quartz
-enderio:block_not_pasture_dark_fused_glass:0, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:1, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:2, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:3, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:4, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:5, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:6, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:7, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:8, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:9, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:10, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:11, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:12, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:13, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:14, Dark Clear Glass
-enderio:block_not_pasture_dark_fused_glass:15, Dark Clear Glass
-enderio:item_soul_vial, Soul Vial
-enderio:block_detector_block:0, Block Detector
-enderio:block_detector_block_silent:0, Block Detector (Silent)
-enderio:item_dark_steel_helmet, Dark Helm
-enderio:item_dark_steel_chestplate, Dark Plate
-enderio:item_dark_steel_leggings, Dark Leggings
-enderio:item_dark_steel_boots, Dark Boots
-enderio:item_dark_steel_shield, Dark Shield
-enderio:item_dark_steel_sword, The Ender
-enderio:item_dark_steel_pickaxe, Dark Pick
-enderio:item_dark_steel_axe, Dark Axe
-enderio:item_dark_steel_bow, Dark Bow
-enderio:item_dark_steel_shears, Dark Shears
-enderio:item_dark_steel_treetap, Dark Treetap
-enderio:item_dark_steel_crook, Dark Crook
-enderio:item_dark_steel_hand, Dark Backhoe
-enderio:item_inventory_charger_simple, Simple Inventory Charger
-enderio:item_inventory_charger_basic, Basic Inventory Charger
-enderio:item_inventory_charger, Inventory Charger
-enderio:item_inventory_charger_vibrant, Vibrant Inventory Charger
-enderio:item_end_steel_sword, The Ender Mk2
-enderio:item_end_steel_pickaxe, Ender Pickaxe
-enderio:item_end_steel_axe, Ender Axe
-enderio:item_end_steel_bow, Ender Bow
-enderio:item_end_steel_helmet, Ender Helm
-enderio:item_end_steel_chestplate, Ender Plate
-enderio:item_end_steel_leggings, Ender Leggings
-enderio:item_end_steel_boots, Ender Boots
-enderio:item_end_steel_shield, Ender Shield
-enderio:item_staff_of_levity:0, Staff of Levity
-enderio:item_staff_of_levity:0, Staff of Levity
-enderio:item_dark_steel_upgrade:0, Blank Dark Steel Upgrade
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Micro Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Micro Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Mini Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Mini Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Pocket Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Pocket Anvil"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Carpeting"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Carpeting"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Depth"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Depth"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Direct"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Direct"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Elytra"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Elytra"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered IV"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered IV"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Glider"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Glider"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Fork"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Fork"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Night Vision"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Night Vision"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Padding"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Padding"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Simple Solar"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Simple Solar"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Sound Locator"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Sound Locator"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Spoon"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Spoon"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Step Assist"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Step Assist"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Flippers"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Flippers"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive I"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive II"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive III"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "The One Probe"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
-enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
-enderio:block_death_pouch, Death Urn
-enderio:item_owl_egg, Owl Egg
-enderio:block_alloy_endergy:0, Crude Steel Block
-enderio:block_alloy_endergy:1, Crystalline Alloy Block
-enderio:block_alloy_endergy:2, Melodic Alloy Block
-enderio:block_alloy_endergy:3, Stellar Alloy Block
-enderio:block_alloy_endergy:4, Crystalline Pink Slime Block
-enderio:block_alloy_endergy:5, Energetic Silver Block
-enderio:block_alloy_endergy:6, Vivid Alloy Block
-enderio:item_alloy_endergy_ingot:0, Crude Steel Ingot
-enderio:item_alloy_endergy_ingot:1, Crystalline Alloy Ingot
-enderio:item_alloy_endergy_ingot:2, Melodic Alloy Ingot
-enderio:item_alloy_endergy_ingot:3, Stellar Alloy Ingot
-enderio:item_alloy_endergy_ingot:4, Crystalline Pink Slime Ingot
-enderio:item_alloy_endergy_ingot:5, Energetic Silver Ingot
-enderio:item_alloy_endergy_ingot:6, Vivid Alloy Ingot
-enderio:item_alloy_endergy_nugget:0, Crude Steel Nugget
-enderio:item_alloy_endergy_nugget:1, Crystalline Alloy Nugget
-enderio:item_alloy_endergy_nugget:2, Melodic Alloy Nugget
-enderio:item_alloy_endergy_nugget:3, Stellar Alloy Nugget
-enderio:item_alloy_endergy_nugget:4, Crystalline Pink Slime Nugget
-enderio:item_alloy_endergy_nugget:5, Energetic Silver Nugget
-enderio:item_alloy_endergy_nugget:6, Vivid Alloy Nugget
-enderio:item_alloy_endergy_ball:0, Crude Steel Grinding Ball
-enderio:item_alloy_endergy_ball:1, Crystalline Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:2, Melodic Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:3, Stellar Alloy Grinding Ball
-enderio:item_alloy_endergy_ball:4, Crystalline Pink Slime Grinding Ball
-enderio:item_alloy_endergy_ball:5, Energetic Silver Grinding Ball
-enderio:item_alloy_endergy_ball:6, Vivid Alloy Grinding Ball
-enderio:item_item_conduit:0, Item Conduit
-enderio:item_liquid_conduit:0, Fluid Conduit
-enderio:item_liquid_conduit:1, Pressurized Fluid Conduit
-enderio:item_liquid_conduit:2, Ender Fluid Conduit
-enderio:item_power_conduit:0, Energy Conduit
-enderio:item_power_conduit:1, Enhanced Energy Conduit
-enderio:item_power_conduit:2, Ender Energy Conduit
-enderio:item_redstone_conduit:0, Redstone Conduit
-enderio:item_extract_speed_upgrade:0, Extract Speed Upgrade
-enderio:item_extract_speed_downgrade:0, Extract Speed Downgrade
-enderio:item_me_conduit:0, ME Conduit
-enderio:item_me_conduit:1, Dense ME Conduit
-enderio:block_inventory_panel, Inventory Panel
-enderio:block_inventory_panel_sensor, Inventory Sensor
-enderio:block_inventory_chest_tiny, Tiny Inventory System Storage
-enderio:block_inventory_chest_small, Small Inventory System Storage
-enderio:block_inventory_chest_medium, Medium Inventory System Storage
-enderio:block_inventory_chest_big, Big Inventory System Storage
-enderio:block_inventory_chest_large, Large Inventory System Storage
-enderio:block_inventory_chest_huge, Huge Inventory System Storage
-enderio:block_inventory_chest_enormous, Enormous Inventory System Storage
-enderio:block_inventory_chest_warehouse, Inventory System Storage Warehouse
-enderio:block_inventory_chest_warehouse13, Inventory System Storage Extended Warehouse
-enderio:item_inventory_remote:0, Inventory Panel Remote
-enderio:item_inventory_remote:0, Inventory Panel Remote
-enderio:item_inventory_remote:1, Advanced Inventory Panel Remote
-enderio:item_inventory_remote:1, Advanced Inventory Panel Remote
-enderio:item_inventory_remote:2, Ender Inventory Panel Remote
-enderio:item_inventory_remote:2, Ender Inventory Panel Remote
-enderio:item_data_conduit:0, Data Conduit
-enderio:block_simple_furnace, Simple Powered Furnace
-enderio:block_simple_alloy_smelter, Simple Alloy Smelter
-enderio:block_alloy_smelter, Alloy Smelter
-enderio:block_enhanced_alloy_smelter, Enhanced Alloy Smelter
-enderio:block_buffer:0, Item Buffer
-enderio:block_buffer:1, Power Buffer
-enderio:block_buffer:2, Omni Buffer
-enderio:block_buffer:3, Creative Buffer
-enderio:block_enchanter, Enchanter
-enderio:block_farm_station, Farming Station
-enderio:block_combustion_generator, Combustion Generator
-enderio:block_enhanced_combustion_generator, Enhanced Combustion Generator
-enderio:block_simple_stirling_generator, Simple Stirling Generator
-enderio:block_stirling_generator, Stirling Generator
-enderio:block_zombie_generator, Zombie Generator
-enderio:block_franken_zombie_generator, Frank'n'Zombie Generator
-enderio:block_ender_generator, Ender Generator
-enderio:block_lava_generator, Lava Heat Exchanger
-enderio:block_killer_joe, Killer Joe
-enderio:block_electric_light:0, Electric Light
-enderio:block_electric_light:1, Electric Light (Inverted)
-enderio:block_electric_light:2, Light
-enderio:block_electric_light:3, Light (Inverted)
-enderio:block_electric_light:4, Wireless Light
-enderio:block_electric_light:5, Wireless Light (Inverted)
-enderio:block_attractor_obelisk, Attractor Obelisk
-enderio:block_aversion_obelisk, Aversion Obelisk
-enderio:block_inhibitor_obelisk, Inhibitor Obelisk
-enderio:block_relocator_obelisk, Relocator Obelisk
-enderio:block_weather_obelisk, Weather Obelisk
-enderio:block_experience_obelisk, Experience Obelisk
-enderio:block_painter, Painting Machine
-enderio:block_reservoir, Endervoir
-enderio:block_omni_reservoir, Omnivoir
-enderio:block_simple_sag_mill, Simple SAG Mill
-enderio:block_sag_mill, SAG Mill
-enderio:block_enhanced_sag_mill, Enhanced SAG Mill
-enderio:block_slice_and_splice, Slice'N'Splice
-enderio:block_solar_panel:0, Simple Photovoltaic Cell
-enderio:block_solar_panel:1, Photovoltaic Cell
-enderio:block_solar_panel:2, Advanced Photovoltaic Cell
-enderio:block_solar_panel:3, Vibrant Photovoltaic Cell
-enderio:block_soul_binder, Soul Binder
-enderio:block_powered_spawner, Powered Spawner
-enderio:block_vat, The Vat
-enderio:block_enhanced_vat, The Enhanced Vat
-enderio:block_simple_wired_charger, Simple Wired Charger
-enderio:block_wired_charger, Wired Charger
-enderio:block_enhanced_wired_charger, Enhanced Wired Charger
-enderio:block_wireless_charger, Wireless Charger
-enderio:block_normal_wireless_charger, Wireless Charging Antenna
-enderio:block_enhanced_wireless_charger, Enhanced Wireless Charging Antenna
-enderio:block_wireless_charger_extension, Wireless Charging Antenna Extension
-enderio:block_tank:0, Fluid Tank
-enderio:block_tank:1, Pressurized Fluid Tank
-enderio:block_transceiver, Dimensional Transceiver
-enderio:block_vacuum_chest, Vacuum Chest
-enderio:block_xp_vacuum, XP Vacuum
-enderio:block_niard, The Niard
-enderio:block_travel_anchor, Travel Anchor
-enderio:block_tele_pad, Telepad Block
-enderio:block_dialing_device, Dialing Device
-enderio:block_impulse_hopper, Impulse Hopper
-enderio:block_simple_crafter, Simple Crafter
-enderio:block_crafter, Crafter
-enderio:block_creative_spawner, Creative Spawner
-enderio:block_cap_bank:0, Creative Capacitor Bank
-enderio:block_cap_bank:1, Basic Capacitor Bank
-enderio:block_cap_bank:1, Basic Capacitor Bank
-enderio:block_cap_bank:2, Capacitor Bank
-enderio:block_cap_bank:2, Capacitor Bank
-enderio:block_cap_bank:3, Vibrant Capacitor Bank
-enderio:block_cap_bank:3, Vibrant Capacitor Bank
-enderio:block_gauge, Energy Gauge
-enderio:block_power_monitor, Power Monitor
-enderio:block_advanced_power_monitor, Graphical Power Monitor
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -6040,50 +4866,40 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Chisel Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Arcane Focus Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Chisel Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Darkwood Shard
 tconstruct:shard:0, Bloodwood Shard
 tconstruct:shard:0, Ghostwood Shard
-tconstruct:shard:0, Electrical Shard
-tconstruct:shard:0, Energetic Shard
-tconstruct:shard:0, Vibrant Shard
-tconstruct:shard:0, Red Shard
-tconstruct:shard:0, Conductive Shard
-tconstruct:shard:0, Pulsating Shard
-tconstruct:shard:0, Dark Shard
-tconstruct:shard:0, Souled Shard
-tconstruct:shard:0, Shard of the End
-tconstruct:shard:0, Fake-Iron Shard
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -6185,16 +5001,6 @@ tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
 tconstruct:sharpening_kit:0, Bloodwood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
-tconstruct:sharpening_kit:0, Electrical Sharpening Kit
-tconstruct:sharpening_kit:0, Energetic Sharpening Kit
-tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
-tconstruct:sharpening_kit:0, Red Sharpening Kit
-tconstruct:sharpening_kit:0, Conductive Sharpening Kit
-tconstruct:sharpening_kit:0, Pulsating Sharpening Kit
-tconstruct:sharpening_kit:0, Dark Sharpening Kit
-tconstruct:sharpening_kit:0, Souled Sharpening Kit
-tconstruct:sharpening_kit:0, Sharpening Kit of the End
-tconstruct:sharpening_kit:0, Fake-Iron Sharpening Kit
 tconstruct:sharpening_kit:0, Wooden Sharpening Kit
 tconstruct:sharpening_kit:0, Stone Sharpening Kit
 tconstruct:sharpening_kit:0, Flint Sharpening Kit
@@ -6296,16 +5102,6 @@ tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
 tconstruct:pick_head:0, Bloodwood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
-tconstruct:pick_head:0, Electrical Pickaxe Head
-tconstruct:pick_head:0, Energetic Pickaxe Head
-tconstruct:pick_head:0, Vibrant Pickaxe Head
-tconstruct:pick_head:0, Red Pickaxe Head
-tconstruct:pick_head:0, Conductive Pickaxe Head
-tconstruct:pick_head:0, Pulsating Pickaxe Head
-tconstruct:pick_head:0, Dark Pickaxe Head
-tconstruct:pick_head:0, Souled Pickaxe Head
-tconstruct:pick_head:0, Pickaxe Head of the End
-tconstruct:pick_head:0, Fake-Iron Pickaxe Head
 tconstruct:pick_head:0, Wooden Pickaxe Head
 tconstruct:pick_head:0, Stone Pickaxe Head
 tconstruct:pick_head:0, Flint Pickaxe Head
@@ -6407,16 +5203,6 @@ tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
 tconstruct:shovel_head:0, Bloodwood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
-tconstruct:shovel_head:0, Electrical Shovel Head
-tconstruct:shovel_head:0, Energetic Shovel Head
-tconstruct:shovel_head:0, Vibrant Shovel Head
-tconstruct:shovel_head:0, Red Shovel Head
-tconstruct:shovel_head:0, Conductive Shovel Head
-tconstruct:shovel_head:0, Pulsating Shovel Head
-tconstruct:shovel_head:0, Dark Shovel Head
-tconstruct:shovel_head:0, Souled Shovel Head
-tconstruct:shovel_head:0, Shovel Head of the End
-tconstruct:shovel_head:0, Fake-Iron Shovel Head
 tconstruct:shovel_head:0, Wooden Shovel Head
 tconstruct:shovel_head:0, Stone Shovel Head
 tconstruct:shovel_head:0, Flint Shovel Head
@@ -6518,16 +5304,6 @@ tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
 tconstruct:axe_head:0, Bloodwood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
-tconstruct:axe_head:0, Electrical Axe Head
-tconstruct:axe_head:0, Energetic Axe Head
-tconstruct:axe_head:0, Vibrant Axe Head
-tconstruct:axe_head:0, Red Axe Head
-tconstruct:axe_head:0, Conductive Axe Head
-tconstruct:axe_head:0, Pulsating Axe Head
-tconstruct:axe_head:0, Dark Axe Head
-tconstruct:axe_head:0, Souled Axe Head
-tconstruct:axe_head:0, Axe Head of the End
-tconstruct:axe_head:0, Fake-Iron Axe Head
 tconstruct:axe_head:0, Wooden Axe Head
 tconstruct:axe_head:0, Stone Axe Head
 tconstruct:axe_head:0, Flint Axe Head
@@ -6629,16 +5405,6 @@ tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
 tconstruct:broad_axe_head:0, Bloodwood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
-tconstruct:broad_axe_head:0, Electrical Broad Axe Head
-tconstruct:broad_axe_head:0, Energetic Broad Axe Head
-tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
-tconstruct:broad_axe_head:0, Red Broad Axe Head
-tconstruct:broad_axe_head:0, Conductive Broad Axe Head
-tconstruct:broad_axe_head:0, Pulsating Broad Axe Head
-tconstruct:broad_axe_head:0, Dark Broad Axe Head
-tconstruct:broad_axe_head:0, Souled Broad Axe Head
-tconstruct:broad_axe_head:0, Broad Axe Head of the End
-tconstruct:broad_axe_head:0, Fake-Iron Broad Axe Head
 tconstruct:broad_axe_head:0, Wooden Broad Axe Head
 tconstruct:broad_axe_head:0, Stone Broad Axe Head
 tconstruct:broad_axe_head:0, Flint Broad Axe Head
@@ -6740,16 +5506,6 @@ tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
 tconstruct:sword_blade:0, Bloodwood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
-tconstruct:sword_blade:0, Electrical Sword Blade
-tconstruct:sword_blade:0, Energetic Sword Blade
-tconstruct:sword_blade:0, Vibrant Sword Blade
-tconstruct:sword_blade:0, Red Sword Blade
-tconstruct:sword_blade:0, Conductive Sword Blade
-tconstruct:sword_blade:0, Pulsating Sword Blade
-tconstruct:sword_blade:0, Dark Sword Blade
-tconstruct:sword_blade:0, Souled Sword Blade
-tconstruct:sword_blade:0, Sword Blade of the End
-tconstruct:sword_blade:0, Fake-Iron Sword Blade
 tconstruct:sword_blade:0, Wooden Sword Blade
 tconstruct:sword_blade:0, Stone Sword Blade
 tconstruct:sword_blade:0, Flint Sword Blade
@@ -6851,16 +5607,6 @@ tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
 tconstruct:large_sword_blade:0, Bloodwood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
-tconstruct:large_sword_blade:0, Electrical Large Sword Blade
-tconstruct:large_sword_blade:0, Energetic Large Sword Blade
-tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
-tconstruct:large_sword_blade:0, Red Large Sword Blade
-tconstruct:large_sword_blade:0, Conductive Large Sword Blade
-tconstruct:large_sword_blade:0, Pulsating Large Sword Blade
-tconstruct:large_sword_blade:0, Dark Large Sword Blade
-tconstruct:large_sword_blade:0, Souled Large Sword Blade
-tconstruct:large_sword_blade:0, Large Sword Blade of the End
-tconstruct:large_sword_blade:0, Fake-Iron Large Sword Blade
 tconstruct:large_sword_blade:0, Wooden Large Sword Blade
 tconstruct:large_sword_blade:0, Stone Large Sword Blade
 tconstruct:large_sword_blade:0, Flint Large Sword Blade
@@ -6962,16 +5708,6 @@ tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
 tconstruct:hammer_head:0, Bloodwood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
-tconstruct:hammer_head:0, Electrical Hammer Head
-tconstruct:hammer_head:0, Energetic Hammer Head
-tconstruct:hammer_head:0, Vibrant Hammer Head
-tconstruct:hammer_head:0, Red Hammer Head
-tconstruct:hammer_head:0, Conductive Hammer Head
-tconstruct:hammer_head:0, Pulsating Hammer Head
-tconstruct:hammer_head:0, Dark Hammer Head
-tconstruct:hammer_head:0, Souled Hammer Head
-tconstruct:hammer_head:0, Hammer Head of the End
-tconstruct:hammer_head:0, Fake-Iron Hammer Head
 tconstruct:hammer_head:0, Wooden Hammer Head
 tconstruct:hammer_head:0, Stone Hammer Head
 tconstruct:hammer_head:0, Flint Hammer Head
@@ -7073,16 +5809,6 @@ tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
 tconstruct:excavator_head:0, Bloodwood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
-tconstruct:excavator_head:0, Electrical Excavator Head
-tconstruct:excavator_head:0, Energetic Excavator Head
-tconstruct:excavator_head:0, Vibrant Excavator Head
-tconstruct:excavator_head:0, Red Excavator Head
-tconstruct:excavator_head:0, Conductive Excavator Head
-tconstruct:excavator_head:0, Pulsating Excavator Head
-tconstruct:excavator_head:0, Dark Excavator Head
-tconstruct:excavator_head:0, Souled Excavator Head
-tconstruct:excavator_head:0, Excavator Head of the End
-tconstruct:excavator_head:0, Fake-Iron Excavator Head
 tconstruct:excavator_head:0, Wooden Excavator Head
 tconstruct:excavator_head:0, Stone Excavator Head
 tconstruct:excavator_head:0, Flint Excavator Head
@@ -7184,16 +5910,6 @@ tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
 tconstruct:kama_head:0, Bloodwood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
-tconstruct:kama_head:0, Electrical Kama Head
-tconstruct:kama_head:0, Energetic Kama Head
-tconstruct:kama_head:0, Vibrant Kama Head
-tconstruct:kama_head:0, Red Kama Head
-tconstruct:kama_head:0, Conductive Kama Head
-tconstruct:kama_head:0, Pulsating Kama Head
-tconstruct:kama_head:0, Dark Kama Head
-tconstruct:kama_head:0, Souled Kama Head
-tconstruct:kama_head:0, Kama Head of the End
-tconstruct:kama_head:0, Fake-Iron Kama Head
 tconstruct:kama_head:0, Wooden Kama Head
 tconstruct:kama_head:0, Stone Kama Head
 tconstruct:kama_head:0, Flint Kama Head
@@ -7295,16 +6011,6 @@ tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
 tconstruct:scythe_head:0, Bloodwood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
-tconstruct:scythe_head:0, Electrical Scythe Head
-tconstruct:scythe_head:0, Energetic Scythe Head
-tconstruct:scythe_head:0, Vibrant Scythe Head
-tconstruct:scythe_head:0, Red Scythe Head
-tconstruct:scythe_head:0, Conductive Scythe Head
-tconstruct:scythe_head:0, Pulsating Scythe Head
-tconstruct:scythe_head:0, Dark Scythe Head
-tconstruct:scythe_head:0, Souled Scythe Head
-tconstruct:scythe_head:0, Scythe Head of the End
-tconstruct:scythe_head:0, Fake-Iron Scythe Head
 tconstruct:scythe_head:0, Wooden Scythe Head
 tconstruct:scythe_head:0, Stone Scythe Head
 tconstruct:scythe_head:0, Flint Scythe Head
@@ -7406,16 +6112,6 @@ tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Darkwood Pan
 tconstruct:pan_head:0, Bloodwood Pan
 tconstruct:pan_head:0, Ghostwood Pan
-tconstruct:pan_head:0, Electrical Pan
-tconstruct:pan_head:0, Energetic Pan
-tconstruct:pan_head:0, Vibrant Pan
-tconstruct:pan_head:0, Red Pan
-tconstruct:pan_head:0, Conductive Pan
-tconstruct:pan_head:0, Pulsating Pan
-tconstruct:pan_head:0, Dark Pan
-tconstruct:pan_head:0, Souled Pan
-tconstruct:pan_head:0, Pan of the End
-tconstruct:pan_head:0, Fake-Iron Pan
 tconstruct:pan_head:0, Wooden Pan
 tconstruct:pan_head:0, Stone Pan
 tconstruct:pan_head:0, Flint Pan
@@ -7517,16 +6213,6 @@ tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
 tconstruct:sign_head:0, Bloodwood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
-tconstruct:sign_head:0, Electrical Sign Plate
-tconstruct:sign_head:0, Energetic Sign Plate
-tconstruct:sign_head:0, Vibrant Sign Plate
-tconstruct:sign_head:0, Red Sign Plate
-tconstruct:sign_head:0, Conductive Sign Plate
-tconstruct:sign_head:0, Pulsating Sign Plate
-tconstruct:sign_head:0, Dark Sign Plate
-tconstruct:sign_head:0, Souled Sign Plate
-tconstruct:sign_head:0, Sign Plate of the End
-tconstruct:sign_head:0, Fake-Iron Sign Plate
 tconstruct:sign_head:0, Wooden Sign Plate
 tconstruct:sign_head:0, Stone Sign Plate
 tconstruct:sign_head:0, Flint Sign Plate
@@ -7628,16 +6314,6 @@ tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
 tconstruct:tool_rod:0, Bloodwood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
-tconstruct:tool_rod:0, Electrical Tool Rod
-tconstruct:tool_rod:0, Energetic Tool Rod
-tconstruct:tool_rod:0, Vibrant Tool Rod
-tconstruct:tool_rod:0, Red Tool Rod
-tconstruct:tool_rod:0, Conductive Tool Rod
-tconstruct:tool_rod:0, Pulsating Tool Rod
-tconstruct:tool_rod:0, Dark Tool Rod
-tconstruct:tool_rod:0, Souled Tool Rod
-tconstruct:tool_rod:0, Tool Rod of the End
-tconstruct:tool_rod:0, Fake-Iron Tool Rod
 tconstruct:tool_rod:0, Wooden Tool Rod
 tconstruct:tool_rod:0, Stone Tool Rod
 tconstruct:tool_rod:0, Flint Tool Rod
@@ -7739,16 +6415,6 @@ tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Bloodwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
-tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
-tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
-tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
-tconstruct:tough_tool_rod:0, Red Tough Tool Rod
-tconstruct:tough_tool_rod:0, Conductive Tough Tool Rod
-tconstruct:tough_tool_rod:0, Pulsating Tough Tool Rod
-tconstruct:tough_tool_rod:0, Dark Tough Tool Rod
-tconstruct:tough_tool_rod:0, Souled Tough Tool Rod
-tconstruct:tough_tool_rod:0, Tough Tool Rod of the End
-tconstruct:tough_tool_rod:0, Fake-Iron Tough Tool Rod
 tconstruct:tough_tool_rod:0, Wooden Tough Tool Rod
 tconstruct:tough_tool_rod:0, Stone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Flint Tough Tool Rod
@@ -7850,16 +6516,6 @@ tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Darkwood Binding
 tconstruct:binding:0, Bloodwood Binding
 tconstruct:binding:0, Ghostwood Binding
-tconstruct:binding:0, Electrical Binding
-tconstruct:binding:0, Energetic Binding
-tconstruct:binding:0, Vibrant Binding
-tconstruct:binding:0, Red Binding
-tconstruct:binding:0, Conductive Binding
-tconstruct:binding:0, Pulsating Binding
-tconstruct:binding:0, Dark Binding
-tconstruct:binding:0, Souled Binding
-tconstruct:binding:0, Binding of the End
-tconstruct:binding:0, Fake-Iron Binding
 tconstruct:binding:0, Wooden Binding
 tconstruct:binding:0, Stone Binding
 tconstruct:binding:0, Flint Binding
@@ -7961,16 +6617,6 @@ tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
 tconstruct:tough_binding:0, Bloodwood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
-tconstruct:tough_binding:0, Electrical Tough Binding
-tconstruct:tough_binding:0, Energetic Tough Binding
-tconstruct:tough_binding:0, Vibrant Tough Binding
-tconstruct:tough_binding:0, Red Tough Binding
-tconstruct:tough_binding:0, Conductive Tough Binding
-tconstruct:tough_binding:0, Pulsating Tough Binding
-tconstruct:tough_binding:0, Dark Tough Binding
-tconstruct:tough_binding:0, Souled Tough Binding
-tconstruct:tough_binding:0, Tough Binding of the End
-tconstruct:tough_binding:0, Fake-Iron Tough Binding
 tconstruct:tough_binding:0, Wooden Tough Binding
 tconstruct:tough_binding:0, Stone Tough Binding
 tconstruct:tough_binding:0, Flint Tough Binding
@@ -8072,16 +6718,6 @@ tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
 tconstruct:wide_guard:0, Bloodwood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
-tconstruct:wide_guard:0, Electrical Wide Guard
-tconstruct:wide_guard:0, Energetic Wide Guard
-tconstruct:wide_guard:0, Vibrant Wide Guard
-tconstruct:wide_guard:0, Red Wide Guard
-tconstruct:wide_guard:0, Conductive Wide Guard
-tconstruct:wide_guard:0, Pulsating Wide Guard
-tconstruct:wide_guard:0, Dark Wide Guard
-tconstruct:wide_guard:0, Souled Wide Guard
-tconstruct:wide_guard:0, Wide Guard of the End
-tconstruct:wide_guard:0, Fake-Iron Wide Guard
 tconstruct:wide_guard:0, Wooden Wide Guard
 tconstruct:wide_guard:0, Stone Wide Guard
 tconstruct:wide_guard:0, Flint Wide Guard
@@ -8183,16 +6819,6 @@ tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
 tconstruct:hand_guard:0, Bloodwood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
-tconstruct:hand_guard:0, Electrical Hand Guard
-tconstruct:hand_guard:0, Energetic Hand Guard
-tconstruct:hand_guard:0, Vibrant Hand Guard
-tconstruct:hand_guard:0, Red Hand Guard
-tconstruct:hand_guard:0, Conductive Hand Guard
-tconstruct:hand_guard:0, Pulsating Hand Guard
-tconstruct:hand_guard:0, Dark Hand Guard
-tconstruct:hand_guard:0, Souled Hand Guard
-tconstruct:hand_guard:0, Hand Guard of the End
-tconstruct:hand_guard:0, Fake-Iron Hand Guard
 tconstruct:hand_guard:0, Wooden Hand Guard
 tconstruct:hand_guard:0, Stone Hand Guard
 tconstruct:hand_guard:0, Flint Hand Guard
@@ -8294,16 +6920,6 @@ tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
 tconstruct:cross_guard:0, Bloodwood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
-tconstruct:cross_guard:0, Electrical Cross Guard
-tconstruct:cross_guard:0, Energetic Cross Guard
-tconstruct:cross_guard:0, Vibrant Cross Guard
-tconstruct:cross_guard:0, Red Cross Guard
-tconstruct:cross_guard:0, Conductive Cross Guard
-tconstruct:cross_guard:0, Pulsating Cross Guard
-tconstruct:cross_guard:0, Dark Cross Guard
-tconstruct:cross_guard:0, Souled Cross Guard
-tconstruct:cross_guard:0, Cross Guard of the End
-tconstruct:cross_guard:0, Fake-Iron Cross Guard
 tconstruct:cross_guard:0, Wooden Cross Guard
 tconstruct:cross_guard:0, Stone Cross Guard
 tconstruct:cross_guard:0, Flint Cross Guard
@@ -8405,16 +7021,6 @@ tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
 tconstruct:large_plate:0, Bloodwood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
-tconstruct:large_plate:0, Electrical Large Plate
-tconstruct:large_plate:0, Energetic Large Plate
-tconstruct:large_plate:0, Vibrant Large Plate
-tconstruct:large_plate:0, Red Large Plate
-tconstruct:large_plate:0, Conductive Large Plate
-tconstruct:large_plate:0, Pulsating Large Plate
-tconstruct:large_plate:0, Dark Large Plate
-tconstruct:large_plate:0, Souled Large Plate
-tconstruct:large_plate:0, Large Plate of the End
-tconstruct:large_plate:0, Fake-Iron Large Plate
 tconstruct:large_plate:0, Wooden Large Plate
 tconstruct:large_plate:0, Stone Large Plate
 tconstruct:large_plate:0, Flint Large Plate
@@ -8516,16 +7122,6 @@ tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
 tconstruct:knife_blade:0, Bloodwood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
-tconstruct:knife_blade:0, Electrical Knife Blade
-tconstruct:knife_blade:0, Energetic Knife Blade
-tconstruct:knife_blade:0, Vibrant Knife Blade
-tconstruct:knife_blade:0, Red Knife Blade
-tconstruct:knife_blade:0, Conductive Knife Blade
-tconstruct:knife_blade:0, Pulsating Knife Blade
-tconstruct:knife_blade:0, Dark Knife Blade
-tconstruct:knife_blade:0, Souled Knife Blade
-tconstruct:knife_blade:0, Knife Blade of the End
-tconstruct:knife_blade:0, Fake-Iron Knife Blade
 tconstruct:knife_blade:0, Wooden Knife Blade
 tconstruct:knife_blade:0, Stone Knife Blade
 tconstruct:knife_blade:0, Flint Knife Blade
@@ -8627,16 +7223,6 @@ tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
 tconstruct:bow_limb:0, Bloodwood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
-tconstruct:bow_limb:0, Electrical Bowlimb
-tconstruct:bow_limb:0, Energetic Bowlimb
-tconstruct:bow_limb:0, Vibrant Bowlimb
-tconstruct:bow_limb:0, Red Bowlimb
-tconstruct:bow_limb:0, Conductive Bowlimb
-tconstruct:bow_limb:0, Pulsating Bowlimb
-tconstruct:bow_limb:0, Dark Bowlimb
-tconstruct:bow_limb:0, Souled Bowlimb
-tconstruct:bow_limb:0, Bowlimb of the End
-tconstruct:bow_limb:0, Fake-Iron Bowlimb
 tconstruct:bow_limb:0, Wooden Bowlimb
 tconstruct:bow_limb:0, Stone Bowlimb
 tconstruct:bow_limb:0, Flint Bowlimb
@@ -8733,7 +7319,6 @@ tconstruct:bow_limb:0, Constantan Bowlimb
 tconstruct:bow_limb:0, Signalum Bowlimb
 tconstruct:bow_limb:0, Lumium Bowlimb
 tconstruct:bow_limb:0, Enderium Bowlimb
-tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
 tconstruct:bow_string:0, Slimevine Bowstring
@@ -8745,16 +7330,6 @@ tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
 tconstruct:arrow_head:0, Bloodwood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
-tconstruct:arrow_head:0, Electrical Arrow Head
-tconstruct:arrow_head:0, Energetic Arrow Head
-tconstruct:arrow_head:0, Vibrant Arrow Head
-tconstruct:arrow_head:0, Red Arrow Head
-tconstruct:arrow_head:0, Conductive Arrow Head
-tconstruct:arrow_head:0, Pulsating Arrow Head
-tconstruct:arrow_head:0, Dark Arrow Head
-tconstruct:arrow_head:0, Souled Arrow Head
-tconstruct:arrow_head:0, Arrow Head of the End
-tconstruct:arrow_head:0, Fake-Iron Arrow Head
 tconstruct:arrow_head:0, Wooden Arrow Head
 tconstruct:arrow_head:0, Stone Arrow Head
 tconstruct:arrow_head:0, Flint Arrow Head
@@ -9107,18 +7682,6 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
-tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -9189,68 +7752,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Chisel Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Arcane Focus Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Chisel Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Chisel Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Arcane Focus Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Chisel Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9363,19 +7924,6 @@ ceramics:clay_bucket:0, Honey Clay Bucket
 ceramics:clay_bucket:0, Blood Clay Bucket
 ceramics:clay_bucket:0, Poison Clay Bucket
 ceramics:clay_bucket:0, Hot Spring Water Clay Bucket
-ceramics:clay_bucket:0, Glowgas Clay Bucket
-ceramics:clay_bucket:0, Molten Redstone Clay Bucket
-ceramics:clay_bucket:0, Liquefied Ender Pearls Clay Bucket
-ceramics:clay_bucket:0, Molten Electrical Steel Clay Bucket
-ceramics:clay_bucket:0, Molten Energetic Alloy Clay Bucket
-ceramics:clay_bucket:0, Molten Vibrant Alloy Clay Bucket
-ceramics:clay_bucket:0, Molten Redstone Alloy Clay Bucket
-ceramics:clay_bucket:0, Molten Conductive Iron Clay Bucket
-ceramics:clay_bucket:0, Molten Pulsating Iron Clay Bucket
-ceramics:clay_bucket:0, Molten Dark Steel Clay Bucket
-ceramics:clay_bucket:0, Molten Soularium Clay Bucket
-ceramics:clay_bucket:0, Molten End Steel Clay Bucket
-ceramics:clay_bucket:0, Molten Iron Alloy Clay Bucket
 ceramics:clay_bucket:0, Aluminium Clay Bucket
 ceramics:clay_bucket:0, Americium Clay Bucket
 ceramics:clay_bucket:0, Antimony Clay Bucket
@@ -9648,6 +8196,7 @@ ceramics:clay_bucket:0, Gasoline Clay Bucket
 ceramics:clay_bucket:0, High Octane Gasoline Clay Bucket
 ceramics:clay_bucket:0, Coal Gas Clay Bucket
 ceramics:clay_bucket:0, Coal Tar Clay Bucket
+ceramics:clay_bucket:0, Glowstone Clay Bucket
 ceramics:clay_bucket:0, Cetane-Boosted Diesel Clay Bucket
 ceramics:clay_bucket:0, Fish Oil Clay Bucket
 ceramics:clay_bucket:0, Ruby Slurry Clay Bucket
@@ -9705,6 +8254,7 @@ ceramics:clay_bucket:0, Liquid Ender Air Clay Bucket
 ceramics:clay_bucket:0, Aqua Regia Clay Bucket
 ceramics:clay_bucket:0, Acidic Osmium Solution Clay Bucket
 ceramics:clay_bucket:0, Rhodium Plated Palladium Clay Bucket
+ceramics:clay_bucket:0, Redstone Clay Bucket
 ceramics:clay_bucket:0, Red Steel Clay Bucket
 ceramics:clay_bucket:0, Blue Steel Clay Bucket
 ceramics:clay_bucket:0, HSS-G Clay Bucket
@@ -9866,15 +8416,6 @@ ceramics:clay_bucket:0, Molten Enderium Clay Bucket
 ceramics:clay_bucket:0, Chocolate Liquor Clay Bucket
 ceramics:clay_bucket:0, Milk Chocolate Clay Bucket
 ceramics:clay_bucket:0, Dark Chocolate Clay Bucket
-ceramics:clay_bucket:0, Nutrient Distillation Clay Bucket
-ceramics:clay_bucket:0, Dew of the Void Clay Bucket
-ceramics:clay_bucket:0, Vapor of Levity Clay Bucket
-ceramics:clay_bucket:0, Hootch Clay Bucket
-ceramics:clay_bucket:0, Fire Water Clay Bucket
-ceramics:clay_bucket:0, Liquid XP Clay Bucket
-ceramics:clay_bucket:0, Liquid Sunshine Clay Bucket
-ceramics:clay_bucket:0, Cloud Seed Clay Bucket
-ceramics:clay_bucket:0, Concentrated Cloud Seed Clay Bucket
 ceramics:clay_bucket:0, Rocket Fuel Clay Bucket
 ceramics:clay_bucket:0, Enriched Lava Clay Bucket
 ceramics:clay_bucket:0, Seared Stone Clay Bucket
@@ -11283,142 +9824,142 @@ gregtech:fluid_pipe_nonuple:115, Nonuple Tungsten Fluid Pipe
 gregtech:fluid_pipe_nonuple:396, Nonuple Tungstencarbide Fluid Pipe
 gregtech:fluid_pipe_nonuple:2013, Nonuple Tungstensteel Fluid Pipe
 gregtech:fluid_pipe_nonuple:2036, Nonuple Vanadiumsteel Fluid Pipe
-gregtech:item_pipe_small:23, Small Cobalt Item Pipe
-gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
-gregtech:item_pipe_small:331, Small Ultimet Item Pipe
-gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
-gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
-gregtech:item_pipe_small:277, Small Electrum Item Pipe
-gregtech:item_pipe_small:3, Small Americium Item Pipe
-gregtech:item_pipe_small:290, Small Magnalium Item Pipe
-gregtech:item_pipe_small:259, Small Brass Item Pipe
-gregtech:item_pipe_small:112, Small Tin Item Pipe
-gregtech:item_pipe_small:69, Small Nickel Item Pipe
 gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
-gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
-gregtech:item_pipe_small:80, Small Platinum Item Pipe
-gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
+gregtech:item_pipe_small:277, Small Electrum Item Pipe
+gregtech:item_pipe_small:259, Small Brass Item Pipe
+gregtech:item_pipe_small:69, Small Nickel Item Pipe
+gregtech:item_pipe_small:112, Small Tin Item Pipe
+gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
+gregtech:item_pipe_small:23, Small Cobalt Item Pipe
 gregtech:item_pipe_small:75, Small Osmium Item Pipe
-gregtech:item_pipe_normal:23, Cobalt Item Pipe
-gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
-gregtech:item_pipe_normal:331, Ultimet Item Pipe
-gregtech:item_pipe_normal:344, Osmiridium Item Pipe
-gregtech:item_pipe_normal:274, Cupronickel Item Pipe
-gregtech:item_pipe_normal:277, Electrum Item Pipe
-gregtech:item_pipe_normal:3, Americium Item Pipe
-gregtech:item_pipe_normal:290, Magnalium Item Pipe
-gregtech:item_pipe_normal:259, Brass Item Pipe
-gregtech:item_pipe_normal:112, Tin Item Pipe
-gregtech:item_pipe_normal:69, Nickel Item Pipe
+gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
+gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_small:290, Small Magnalium Item Pipe
+gregtech:item_pipe_small:80, Small Platinum Item Pipe
+gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
+gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
+gregtech:item_pipe_small:3, Small Americium Item Pipe
+gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
 gregtech:item_pipe_normal:302, Black Bronze Item Pipe
-gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
-gregtech:item_pipe_normal:80, Platinum Item Pipe
-gregtech:item_pipe_normal:301, Rose Gold Item Pipe
+gregtech:item_pipe_normal:277, Electrum Item Pipe
+gregtech:item_pipe_normal:259, Brass Item Pipe
+gregtech:item_pipe_normal:69, Nickel Item Pipe
+gregtech:item_pipe_normal:112, Tin Item Pipe
+gregtech:item_pipe_normal:274, Cupronickel Item Pipe
+gregtech:item_pipe_normal:23, Cobalt Item Pipe
 gregtech:item_pipe_normal:75, Osmium Item Pipe
-gregtech:item_pipe_large:23, Large Cobalt Item Pipe
-gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
-gregtech:item_pipe_large:331, Large Ultimet Item Pipe
-gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
-gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
-gregtech:item_pipe_large:277, Large Electrum Item Pipe
-gregtech:item_pipe_large:3, Large Americium Item Pipe
-gregtech:item_pipe_large:290, Large Magnalium Item Pipe
-gregtech:item_pipe_large:259, Large Brass Item Pipe
-gregtech:item_pipe_large:112, Large Tin Item Pipe
-gregtech:item_pipe_large:69, Large Nickel Item Pipe
+gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
+gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_normal:290, Magnalium Item Pipe
+gregtech:item_pipe_normal:80, Platinum Item Pipe
+gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
+gregtech:item_pipe_normal:301, Rose Gold Item Pipe
+gregtech:item_pipe_normal:3, Americium Item Pipe
+gregtech:item_pipe_normal:344, Osmiridium Item Pipe
 gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
-gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
-gregtech:item_pipe_large:80, Large Platinum Item Pipe
-gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
+gregtech:item_pipe_large:277, Large Electrum Item Pipe
+gregtech:item_pipe_large:259, Large Brass Item Pipe
+gregtech:item_pipe_large:69, Large Nickel Item Pipe
+gregtech:item_pipe_large:112, Large Tin Item Pipe
+gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
+gregtech:item_pipe_large:23, Large Cobalt Item Pipe
 gregtech:item_pipe_large:75, Large Osmium Item Pipe
-gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
-gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
-gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
-gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
-gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
-gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
-gregtech:item_pipe_huge:3, Huge Americium Item Pipe
-gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
-gregtech:item_pipe_huge:259, Huge Brass Item Pipe
-gregtech:item_pipe_huge:112, Huge Tin Item Pipe
-gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
+gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
+gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_large:290, Large Magnalium Item Pipe
+gregtech:item_pipe_large:80, Large Platinum Item Pipe
+gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
+gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
+gregtech:item_pipe_large:3, Large Americium Item Pipe
+gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
 gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
-gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
-gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
-gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
+gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
+gregtech:item_pipe_huge:259, Huge Brass Item Pipe
+gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
+gregtech:item_pipe_huge:112, Huge Tin Item Pipe
+gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
+gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
 gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
-gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
-gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
-gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
-gregtech:item_pipe_small_restrictive:3, Small Restrictive Americium Item Pipe
-gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
-gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
-gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
-gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
+gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
+gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
+gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
+gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
+gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
+gregtech:item_pipe_huge:3, Huge Americium Item Pipe
+gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
 gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
-gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
+gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
+gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
+gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
+gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
 gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
-gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
-gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
-gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
-gregtech:item_pipe_normal_restrictive:3, Restrictive Americium Item Pipe
-gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
-gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
-gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
+gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
+gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
+gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_small_restrictive:3, Small Restrictive Americium Item Pipe
+gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
-gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
+gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
+gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
+gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
+gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
 gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
-gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
-gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
-gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
-gregtech:item_pipe_large_restrictive:3, Large Restrictive Americium Item Pipe
-gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
-gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
-gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
-gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
+gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
+gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
+gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_normal_restrictive:3, Restrictive Americium Item Pipe
+gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
-gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
+gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
+gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
+gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
+gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
 gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
-gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
-gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
-gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
-gregtech:item_pipe_huge_restrictive:3, Huge Restrictive Americium Item Pipe
-gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
-gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
-gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
+gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
+gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
+gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_large_restrictive:3, Large Restrictive Americium Item Pipe
+gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
 gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
-gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
-gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
-gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
+gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
+gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
+gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
+gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
 gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
+gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
+gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
+gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
+gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
+gregtech:item_pipe_huge_restrictive:3, Huge Restrictive Americium Item Pipe
+gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
 gregtech:hermetic_casing:0, Hermetic Casing I
 gregtech:hermetic_casing:1, Hermetic Casing II
 gregtech:hermetic_casing:2, Hermetic Casing III
@@ -11878,34 +10419,22 @@ gregtech:brittle_charcoal, Brittle Charcoal
 gregtech:rubber_log, Rubber Wood
 gregtech:rubber_leaves, Rubber Tree Leaves
 gregtech:rubber_sapling, Rubber Tree Sapling
-gregtech:meta_block_compressed_125:4, Block of Olivine
-gregtech:meta_block_compressed_125:5, Block of Opal
-gregtech:meta_block_compressed_125:6, Block of Amethyst
-gregtech:meta_block_compressed_125:10, Block of Apatite
-gregtech:meta_block_compressed_125:11, Block of Black Steel
-gregtech:meta_block_compressed_125:12, Block of Damascus Steel
-gregtech:meta_block_compressed_125:13, Block of Tungstensteel
-gregtech:meta_block_compressed_125:14, Block of Cobalt Brass
 gregtech:meta_block_compressed_17:2, Block of Cupronickel
 gregtech:meta_block_compressed_17:5, Block of Electrum
 gregtech:meta_block_compressed_17:9, Block of Green Sapphire
 gregtech:meta_block_compressed_17:10, Block of Grossular
 gregtech:meta_block_compressed_17:13, Block of Rutile
 gregtech:meta_block_compressed_17:15, Block of Invar
-gregtech:meta_block_compressed_157:4, Block of HSS-G
-gregtech:meta_block_compressed_157:5, Block of Red Alloy
-gregtech:meta_block_compressed_157:7, Block of HSS-E
-gregtech:meta_block_compressed_157:8, Block of HSS-S
-gregtech:meta_block_compressed_157:15, Block of Blue Alloy
-gregtech:meta_block_compressed_21:2, Block of Yttrium Barium Cuprate
-gregtech:meta_block_compressed_21:4, Block of Quartzite
-gregtech:meta_block_compressed_21:8, Block of Osmiridium
-gregtech:meta_block_compressed_21:15, Block of Gallium Arsenide
-gregtech:meta_block_compressed_0:2, Block of Aluminium
-gregtech:meta_block_compressed_0:3, Block of Americium
-gregtech:meta_block_compressed_0:4, Block of Antimony
-gregtech:meta_block_compressed_0:10, Block of Beryllium
-gregtech:meta_block_compressed_0:11, Block of Bismuth
+gregtech:meta_block_compressed_20:0, Block of Soldering Alloy
+gregtech:meta_block_compressed_20:1, Block of Spessartine
+gregtech:meta_block_compressed_20:3, Block of Stainless Steel
+gregtech:meta_block_compressed_20:4, Block of Steel
+gregtech:meta_block_compressed_20:8, Block of Tin Alloy
+gregtech:meta_block_compressed_20:9, Block of Topaz
+gregtech:meta_block_compressed_20:11, Block of Ultimet
+gregtech:meta_block_compressed_20:13, Block of Uvarovite
+gregtech:meta_block_compressed_20:14, Block of Vanadium-Gallium
+gregtech:meta_block_compressed_20:15, Block of Wrought Iron
 gregtech:meta_block_compressed_19:4, Block of Pyrope
 gregtech:meta_block_compressed_19:5, Block of Rock Salt
 gregtech:meta_block_compressed_19:6, Block of Ruridit
@@ -11914,11 +10443,6 @@ gregtech:meta_block_compressed_19:8, Block of Salt
 gregtech:meta_block_compressed_19:10, Block of Sapphire
 gregtech:meta_block_compressed_19:12, Block of Sodalite
 gregtech:meta_block_compressed_19:15, Block of Coke
-gregtech:meta_block_compressed_2:1, Block of Europium
-gregtech:meta_block_compressed_2:7, Block of Gallium
-gregtech:meta_block_compressed_15:10, Block of Almandine
-gregtech:meta_block_compressed_15:11, Block of Andradite
-gregtech:meta_block_compressed_15:12, Block of Annealed Copper
 gregtech:meta_block_compressed_18:0, Block of Kanthal
 gregtech:meta_block_compressed_18:1, Block of Lazurite
 gregtech:meta_block_compressed_18:2, Block of Magnalium
@@ -11941,13 +10465,37 @@ gregtech:meta_block_compressed_7:12, Block of Naquadah
 gregtech:meta_block_compressed_7:13, Block of Enriched Naquadah
 gregtech:meta_block_compressed_7:14, Block of Naquadria
 gregtech:meta_block_compressed_7:15, Block of Neutronium
-gregtech:meta_block_compressed_63:0, Block of Polyphenylene Sulfide
-gregtech:meta_block_compressed_63:2, Block of Polybenzimidazole (PBI)
-gregtech:meta_block_compressed_63:4, Block of Polyethylene (PE)
-gregtech:meta_block_compressed_63:5, Block of Epoxy Resin
-gregtech:meta_block_compressed_63:7, Block of Polycaprolactam
-gregtech:meta_block_compressed_63:8, Block of Polytetrafluoroethylene (PTFE)
-gregtech:meta_block_compressed_63:9, Block of Sugar
+gregtech:meta_block_compressed_4:0, Block of Molybdenum
+gregtech:meta_block_compressed_4:2, Block of Neodymium
+gregtech:meta_block_compressed_4:5, Block of Nickel
+gregtech:meta_block_compressed_4:7, Block of Niobium
+gregtech:meta_block_compressed_4:11, Block of Osmium
+gregtech:meta_block_compressed_4:13, Block of Palladium
+gregtech:meta_block_compressed_5:0, Block of Platinum
+gregtech:meta_block_compressed_5:1, Block of Plutonium 239
+gregtech:meta_block_compressed_5:2, Block of Plutonium 241
+gregtech:meta_block_compressed_5:10, Block of Rhodium
+gregtech:meta_block_compressed_5:13, Block of Ruthenium
+gregtech:meta_block_compressed_5:15, Block of Samarium
+gregtech:meta_block_compressed_127:3, Block of Magnetic Steel
+gregtech:meta_block_compressed_127:4, Block of Vanadiumsteel
+gregtech:meta_block_compressed_127:5, Block of Potin
+gregtech:meta_block_compressed_127:6, Block of Borosilicate Glass
+gregtech:meta_block_compressed_127:10, Block of Naquadah Alloy
+gregtech:meta_block_compressed_66:12, Block of Rubber
+gregtech:meta_block_compressed_3:0, Block of Indium
+gregtech:meta_block_compressed_3:2, Block of Iridium
+gregtech:meta_block_compressed_3:7, Block of Lead
+gregtech:meta_block_compressed_3:13, Block of Manganese
+gregtech:meta_block_compressed_126:0, Block of Red Garnet
+gregtech:meta_block_compressed_126:1, Block of Yellow Garnet
+gregtech:meta_block_compressed_126:13, Block of Monazite
+gregtech:meta_block_compressed_157:4, Block of HSS-G
+gregtech:meta_block_compressed_157:5, Block of Red Alloy
+gregtech:meta_block_compressed_157:7, Block of HSS-E
+gregtech:meta_block_compressed_157:8, Block of HSS-S
+gregtech:meta_block_compressed_157:15, Block of Blue Alloy
+gregtech:meta_block_compressed_67:2, Block of Polyvinyl Butyral
 gregtech:meta_block_compressed_26:0, Block of Enderpearl
 gregtech:meta_block_compressed_26:2, Block of Magnetic Neodymium
 gregtech:meta_block_compressed_26:7, Block of Magnetic Samarium
@@ -11959,98 +10507,91 @@ gregtech:meta_block_compressed_26:12, Block of Samarium Iron Arsenic Oxide
 gregtech:meta_block_compressed_26:13, Block of Indium Tin Barium Titanium Cuprate
 gregtech:meta_block_compressed_26:14, Block of Uranium Rhodium Dinaquadide
 gregtech:meta_block_compressed_26:15, Block of Enriched Naquadah Trinium Europium Duranide
-gregtech:meta_block_compressed_127:3, Block of Magnetic Steel
-gregtech:meta_block_compressed_127:4, Block of Vanadiumsteel
-gregtech:meta_block_compressed_127:5, Block of Potin
-gregtech:meta_block_compressed_127:6, Block of Borosilicate Glass
-gregtech:meta_block_compressed_127:10, Block of Naquadah Alloy
-gregtech:meta_block_compressed_5:0, Block of Platinum
-gregtech:meta_block_compressed_5:1, Block of Plutonium 239
-gregtech:meta_block_compressed_5:2, Block of Plutonium 241
-gregtech:meta_block_compressed_5:10, Block of Rhodium
-gregtech:meta_block_compressed_5:13, Block of Ruthenium
-gregtech:meta_block_compressed_5:15, Block of Samarium
-gregtech:meta_block_compressed_62:8, Block of Silicone Rubber
-gregtech:meta_block_compressed_62:12, Block of Styrene-Butadiene Rubber
-gregtech:meta_block_compressed_62:14, Block of Fiber-Reinforced Epoxy Resin
-gregtech:meta_block_compressed_62:15, Block of Polyvinyl Chloride (PVC)
-gregtech:meta_block_compressed_1:6, Block of Chrome
-gregtech:meta_block_compressed_1:7, Block of Cobalt
-gregtech:meta_block_compressed_1:9, Block of Copper
-gregtech:meta_block_compressed_1:11, Block of Darmstadtium
+gregtech:meta_block_compressed_0:2, Block of Aluminium
+gregtech:meta_block_compressed_0:3, Block of Americium
+gregtech:meta_block_compressed_0:4, Block of Antimony
+gregtech:meta_block_compressed_0:10, Block of Beryllium
+gregtech:meta_block_compressed_0:11, Block of Bismuth
+gregtech:meta_block_compressed_22:2, Block of Indium Gallium Phosphide
+gregtech:meta_block_compressed_22:3, Block of Nickel Zinc Ferrite
+gregtech:meta_block_compressed_22:13, Block of Realgar
 gregtech:meta_block_compressed_16:0, Block of Battery Alloy
 gregtech:meta_block_compressed_16:1, Block of Blue Topaz
 gregtech:meta_block_compressed_16:3, Block of Brass
 gregtech:meta_block_compressed_16:4, Block of Bronze
 gregtech:meta_block_compressed_16:10, Block of Charcoal
 gregtech:meta_block_compressed_16:12, Block of Cinnabar
-gregtech:meta_block_compressed_66:12, Block of Rubber
-gregtech:meta_block_compressed_22:2, Block of Indium Gallium Phosphide
-gregtech:meta_block_compressed_22:3, Block of Nickel Zinc Ferrite
-gregtech:meta_block_compressed_22:13, Block of Realgar
-gregtech:meta_block_compressed_126:0, Block of Red Garnet
-gregtech:meta_block_compressed_126:1, Block of Yellow Garnet
-gregtech:meta_block_compressed_126:13, Block of Monazite
-gregtech:meta_block_compressed_20:0, Block of Soldering Alloy
-gregtech:meta_block_compressed_20:1, Block of Spessartine
-gregtech:meta_block_compressed_20:3, Block of Stainless Steel
-gregtech:meta_block_compressed_20:4, Block of Steel
-gregtech:meta_block_compressed_20:8, Block of Tin Alloy
-gregtech:meta_block_compressed_20:9, Block of Topaz
-gregtech:meta_block_compressed_20:11, Block of Ultimet
-gregtech:meta_block_compressed_20:13, Block of Uvarovite
-gregtech:meta_block_compressed_20:14, Block of Vanadium-Gallium
-gregtech:meta_block_compressed_20:15, Block of Wrought Iron
-gregtech:meta_block_compressed_3:0, Block of Indium
-gregtech:meta_block_compressed_3:2, Block of Iridium
-gregtech:meta_block_compressed_3:7, Block of Lead
-gregtech:meta_block_compressed_3:13, Block of Manganese
-gregtech:meta_block_compressed_67:2, Block of Polyvinyl Butyral
+gregtech:meta_block_compressed_128:1, Block of Flint
+gregtech:meta_block_compressed_128:14, Block of Rhodium Plated Palladium
+gregtech:meta_block_compressed_62:8, Block of Silicone Rubber
+gregtech:meta_block_compressed_62:12, Block of Styrene-Butadiene Rubber
+gregtech:meta_block_compressed_62:14, Block of Fiber-Reinforced Epoxy Resin
+gregtech:meta_block_compressed_62:15, Block of Polyvinyl Chloride (PVC)
 gregtech:meta_block_compressed_27:0, Block of Ruthenium Trinium Americium Neutronate
+gregtech:meta_block_compressed_21:2, Block of Yttrium Barium Cuprate
+gregtech:meta_block_compressed_21:4, Block of Quartzite
+gregtech:meta_block_compressed_21:8, Block of Osmiridium
+gregtech:meta_block_compressed_21:15, Block of Gallium Arsenide
+gregtech:meta_block_compressed_125:4, Block of Olivine
+gregtech:meta_block_compressed_125:5, Block of Opal
+gregtech:meta_block_compressed_125:6, Block of Amethyst
+gregtech:meta_block_compressed_125:10, Block of Apatite
+gregtech:meta_block_compressed_125:11, Block of Black Steel
+gregtech:meta_block_compressed_125:12, Block of Damascus Steel
+gregtech:meta_block_compressed_125:13, Block of Tungstensteel
+gregtech:meta_block_compressed_125:14, Block of Cobalt Brass
+gregtech:meta_block_compressed_156:12, Block of Endereye
+gregtech:meta_block_compressed_156:14, Block of Red Steel
+gregtech:meta_block_compressed_156:15, Block of Blue Steel
+gregtech:meta_block_compressed_6:3, Block of Silicon
+gregtech:meta_block_compressed_6:4, Block of Silver
+gregtech:meta_block_compressed_6:8, Block of Tantalum
+gregtech:meta_block_compressed_6:13, Block of Thorium
 gregtech:meta_block_compressed_8:0, Block of Tritanium
 gregtech:meta_block_compressed_8:1, Block of Duranium
 gregtech:meta_block_compressed_8:2, Block of Trinium
 gregtech:meta_block_compressed_24:1, Block of Malachite
 gregtech:meta_block_compressed_24:11, Block of Magnetic Iron
 gregtech:meta_block_compressed_24:12, Block of Tungstencarbide
-gregtech:meta_block_compressed_4:0, Block of Molybdenum
-gregtech:meta_block_compressed_4:2, Block of Neodymium
-gregtech:meta_block_compressed_4:5, Block of Nickel
-gregtech:meta_block_compressed_4:7, Block of Niobium
-gregtech:meta_block_compressed_4:11, Block of Osmium
-gregtech:meta_block_compressed_4:13, Block of Palladium
-gregtech:meta_block_compressed_156:12, Block of Endereye
-gregtech:meta_block_compressed_156:14, Block of Red Steel
-gregtech:meta_block_compressed_156:15, Block of Blue Steel
-gregtech:meta_block_compressed_128:1, Block of Flint
-gregtech:meta_block_compressed_128:14, Block of Rhodium Plated Palladium
-gregtech:meta_block_compressed_6:3, Block of Silicon
-gregtech:meta_block_compressed_6:4, Block of Silver
-gregtech:meta_block_compressed_6:8, Block of Tantalum
-gregtech:meta_block_compressed_6:13, Block of Thorium
+gregtech:meta_block_compressed_1:6, Block of Chrome
+gregtech:meta_block_compressed_1:7, Block of Cobalt
+gregtech:meta_block_compressed_1:9, Block of Copper
+gregtech:meta_block_compressed_1:11, Block of Darmstadtium
+gregtech:meta_block_compressed_63:0, Block of Polyphenylene Sulfide
+gregtech:meta_block_compressed_63:2, Block of Polybenzimidazole (PBI)
+gregtech:meta_block_compressed_63:4, Block of Polyethylene (PE)
+gregtech:meta_block_compressed_63:5, Block of Epoxy Resin
+gregtech:meta_block_compressed_63:7, Block of Polycaprolactam
+gregtech:meta_block_compressed_63:8, Block of Polytetrafluoroethylene (PTFE)
+gregtech:meta_block_compressed_63:9, Block of Sugar
+gregtech:meta_block_compressed_2:1, Block of Europium
+gregtech:meta_block_compressed_2:7, Block of Gallium
+gregtech:meta_block_compressed_15:10, Block of Almandine
+gregtech:meta_block_compressed_15:11, Block of Andradite
+gregtech:meta_block_compressed_15:12, Block of Annealed Copper
 gregtech:meta_block_compressed_100:2, Block of Nether Star
 gregtech:meta_block_compressed_13:6, Block of Certus Quartz
 gregtech:meta_block_frame_157:4, HSS-G Frame Box
 gregtech:meta_block_frame_157:7, HSS-E Frame Box
 gregtech:meta_block_frame_157:8, HSS-S Frame Box
+gregtech:meta_block_frame_101:1, Wood Frame Box
+gregtech:meta_block_frame_156:15, Blue Steel Frame Box
 gregtech:meta_block_frame_20:3, Stainless Steel Frame Box
 gregtech:meta_block_frame_20:4, Steel Frame Box
-gregtech:meta_block_frame_17:15, Invar Frame Box
-gregtech:meta_block_frame_127:10, Naquadah Alloy Frame Box
-gregtech:meta_block_frame_63:8, Polytetrafluoroethylene (PTFE) Frame Box
-gregtech:meta_block_frame_156:15, Blue Steel Frame Box
-gregtech:meta_block_frame_0:2, Aluminium Frame Box
-gregtech:meta_block_frame_3:3, Iron Frame Box
 gregtech:meta_block_frame_18:15, Bismuth Bronze Frame Box
-gregtech:meta_block_frame_8:0, Tritanium Frame Box
 gregtech:meta_block_frame_125:11, Black Steel Frame Box
 gregtech:meta_block_frame_125:13, Tungstensteel Frame Box
-gregtech:meta_block_frame_103:0, Treated Wood Frame Box
 gregtech:meta_block_frame_7:1, Titanium Frame Box
 gregtech:meta_block_frame_7:15, Neutronium Frame Box
+gregtech:meta_block_frame_17:15, Invar Frame Box
+gregtech:meta_block_frame_3:3, Iron Frame Box
+gregtech:meta_block_frame_8:0, Tritanium Frame Box
 gregtech:meta_block_frame_16:4, Bronze Frame Box
+gregtech:meta_block_frame_0:2, Aluminium Frame Box
+gregtech:meta_block_frame_63:8, Polytetrafluoroethylene (PTFE) Frame Box
+gregtech:meta_block_frame_103:0, Treated Wood Frame Box
 gregtech:meta_block_frame_2:1, Europium Frame Box
-gregtech:meta_block_frame_101:1, Wood Frame Box
+gregtech:meta_block_frame_127:10, Naquadah Alloy Frame Box
 gregtechfoodoption:gtfo_casing:0, Adobe Bricks
 gregtechfoodoption:gtfo_casing:1, Reinforced Adobe Bricks
 gregtechfoodoption:gtfo_metal_casing:0, Food-Safe Bismuth Bronze Casing
@@ -12573,6 +11114,27 @@ natura:flint_and_blaze, Flint and Blaze
 spiceoflife:bookfoodjournal, Food Journal
 spiceoflife:lunchbox, Lunch Box
 spiceoflife:lunchbag, Lunch Bag
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -12623,27 +11185,6 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tcomplement:materials:0, Stone Bucket
 tcomplement:materials:1, Scorched Brick
 tcomplement:materials:6, iModifier
@@ -12729,16 +11270,6 @@ tcomplement:chisel_head:0, Fusewood Chisel Head
 tcomplement:chisel_head:0, Darkwood Chisel Head
 tcomplement:chisel_head:0, Bloodwood Chisel Head
 tcomplement:chisel_head:0, Ghostwood Chisel Head
-tcomplement:chisel_head:0, Electrical Chisel Head
-tcomplement:chisel_head:0, Energetic Chisel Head
-tcomplement:chisel_head:0, Vibrant Chisel Head
-tcomplement:chisel_head:0, Red Chisel Head
-tcomplement:chisel_head:0, Conductive Chisel Head
-tcomplement:chisel_head:0, Pulsating Chisel Head
-tcomplement:chisel_head:0, Dark Chisel Head
-tcomplement:chisel_head:0, Souled Chisel Head
-tcomplement:chisel_head:0, Chisel Head of the End
-tcomplement:chisel_head:0, Fake-Iron Chisel Head
 tcomplement:chisel_head:0, Wooden Chisel Head
 tcomplement:chisel_head:0, Stone Chisel Head
 tcomplement:chisel_head:0, Flint Chisel Head

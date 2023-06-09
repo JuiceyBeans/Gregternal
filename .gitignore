@@ -30,9 +30,11 @@ instance.json
 hei_bookmarks.ini
 icon.png
 
+#File extenstions
 *.log
 *.txt
 *.dll
+*.disabled
 
 #Client-sided configs
 config/splash.properties
