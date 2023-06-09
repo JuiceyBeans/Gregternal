@@ -36,3 +36,7 @@ config/InvTweaks/InvTweaks.cfg
 config/splash.properties
 mods/AAInfo-1.0.1.jar
 mods/AAInfo-1.0.1.jar.disabled
+config/AppliedEnergistics2/VersionChecker.cfg
+config/tconstruct_oredictcache.dat
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
