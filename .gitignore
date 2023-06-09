@@ -51,3 +51,4 @@ config/AppliedEnergistics2/VersionChecker.cfg
 config/tconstruct_oredictcache.dat
 config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
+config/activity.json
