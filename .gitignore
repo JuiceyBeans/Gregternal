@@ -16,6 +16,7 @@ mods/.index
 mods/OpenTerrainGenerator
 mods/memory_repo
 backups/
+coremods/
 
 .vscode/
 

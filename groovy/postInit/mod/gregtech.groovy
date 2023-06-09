@@ -34,5 +34,3 @@ crafting.shapedBuilder()
         .key('F', metaitem('wooden_form.brick'))
         .replace()
         .register()
-
-crafting.replaceShapeless('compressed_clay', metaitem('compressed.clay'), [metaitem('wooden_form.brick'), item('minecraft:clay')])

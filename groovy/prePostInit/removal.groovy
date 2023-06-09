@@ -19,7 +19,11 @@ def recipesToRemove = [
     'quark:chest_1',
     'quark:trapdoor',
     'minecraft:oak_wooden_slab',
-    'ceramics:uncrafting'
+    'ceramics:uncrafting/porcelain_extension',
+    'ceramics:uncrafting/porcelain_extension',
+    'ceramics:uncrafting/porcelain_barrel',
+    'ceramics:uncrafting/faucet',
+    'ceramics:uncrafting/channel'
     ]
 
 for(name in recipesToRemove) {
