@@ -14,6 +14,8 @@ server-resource-packs/
 mods/1.12.2
 mods/.index
 mods/OpenTerrainGenerator
+mods/memory_repo
+backups/
 
 .vscode/
 

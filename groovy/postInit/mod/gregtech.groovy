@@ -30,7 +30,7 @@ crafting.shapedBuilder()
         .matrix('CCC',
                 'CFC',
                 'CCC')
-        .key('C', metaitem('dustclay')).
+        .key('C', metaitem('dustClay'))
         .key('F', metaitem('wooden_form.brick'))
         .replace()
         .register()
