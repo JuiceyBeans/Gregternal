@@ -2,9 +2,10 @@
   "packName": "En Greggant (working title)",
   "packId": "engreggant",
   "version": "0.1-dev",
-  "debug": false,
+  "debug": true,
   "classes": [
-    "preInit/registerMaterials.groovy"
+    "preInit/registerMaterials.groovy",
+    "preInit/content.groovy"
   ],
   "loaders": {
     "preInit": [
