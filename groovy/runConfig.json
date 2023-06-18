@@ -1,14 +1,17 @@
 {
-  "packName": "En Greggant (working title)",
-  "packId": "engreggant",
+  "packName": "Gregternal",
+  "packId": "gregternal",
   "version": "0.1-dev",
   "debug": true,
   "classes": [
-    "preInit/registerMaterials.groovy",
-    "preInit/content.groovy"
+    "classes/GregternalUtils.groovy",
+    "classes/"
   ],
   "loaders": {
     "preInit": [
+      "classes/",
+      "preInit/gregternalContent.groovy",
+      "preInit/registerMaterials.groovy",
       "preInit/"
     ],
     "postInit": [

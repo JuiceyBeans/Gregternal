@@ -25,7 +25,10 @@ def recipesToRemove = [
     'ceramics:uncrafting/porcelain_extension',
     'ceramics:uncrafting/porcelain_barrel',
     'ceramics:uncrafting/faucet',
-    'ceramics:uncrafting/channel'
+    'ceramics:uncrafting/channel',
+    'quark:custom_chest',
+    'quark:custom_chest_1',
+    'minecraft:charcoal',
     
     ]
 

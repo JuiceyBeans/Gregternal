@@ -1,0 +1,7 @@
+mods.gregtech.fusion_reactor.recipeBuilder()
+    .fluidInputs(fluid('neutronium') * 50)
+    .fluidInputs(fluid('stone') * 72)
+    .outputs(item('gregternal:neutronium_grout'))
+    .duration(200)
+    .EUt(98304)
+    .buildAndRegister()
