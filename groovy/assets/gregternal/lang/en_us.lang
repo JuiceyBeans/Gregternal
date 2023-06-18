@@ -1,7 +1,7 @@
 item.gregternal.grout_brick.name=Grout Brick
 item.gregternal.poor_charcoal.name=Poor Charcoal
-item.gregternal.neutronium_grout.name=Neutronium-infused Grout Brick
-material.gregternal.Draconium.name=Draconium
-material.gregternal.DraconiumAwakened.name=Awakened Draconium
+block.gregternal.neutronium_brick.name=Neutronium-infused Seared Bricks
+material.Draconium.name=Draconium
+material.Draconic.name=Awakened Draconium
 material.titanium_aluminide.name=Titanium Aluminide
-material.gregternal.neutronium_grout.name=Neutronium-infused Grout
+material.neutronium_grout.name=Neutronium-infused Grout

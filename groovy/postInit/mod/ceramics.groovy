@@ -32,4 +32,4 @@ crafting.shapedBuilder()
         .register()
 
 crafting.addShapeless('porcelain_bone', item('ceramics:unfired_clay:4'), [metaitem('dustClay'), item('minecraft:dye:15')])
-crafting.addShapeless('porcelain_quartz', item('ceramics:unfired_clay:4') * 2, [metaitem('dustClay') * 2, item('minecraft:quartz')])
+crafting.addShapeless('porcelain_quartz', item('ceramics:unfired_clay:4') * 2, [metaitem('dustClay'), metaitem('dustClay'), item('minecraft:quartz')])

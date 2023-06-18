@@ -28,12 +28,12 @@ event_manager.listen { MaterialEvent event ->
 		.flags("generate_plate", "generate_rod", "generate_gear", "generate_dense")
 		.build()
 
-	/*new Material.Builder(32002, "awakened_draconium")
+	new Material.Builder(32002, "awakened_draconium")
 		.ingot().fluid()
-		.element("DraconiumAwakened")
+		.element("Draconic")
 		.color(0xf58742).iconSet("metallic")
 		.flags("no_smelting", "generate_plate", "generate_rod", "generate_gear")
-		.build()*/
+		.build()
 
 	new Material.Builder(32002, "neutronium_grout")
 	.ingot().fluid()
@@ -42,4 +42,4 @@ event_manager.listen { MaterialEvent event ->
 	.build()
 }
 
-println("Groovy finished registering materials")
+println("[Gregternal] Finished registering materials!")

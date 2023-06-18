@@ -26,7 +26,7 @@ crafting.shapedBuilder()
 
 crafting.shapedBuilder()
         .name('compressedclay')
-        .output(metaitem('compressed.clay'))
+        .output(metaitem('compressed.clay') * 4)
         .matrix('CCC',
                 'CFC',
                 'CCC')
