@@ -35,9 +35,23 @@ crafting.shapedBuilder()
         .replace()
         .register()
 
+/*crafting.shapeless('neutronium_nugget', item('avaritia:resource:3') * 9, [metaitem('ingotNeutronium')])
+
+crafting.shapeless('neutronium_nugget_conversion', item('avaritia:resource:4'), [metaitem('nuggetNeutronium')])
+crafting.shapeless('neutronium_ingot_conversion', item('avaritia:resource:3'), [metaitem('ingotNeutronium')])*/
+
 mods.gregtech.extractor.recipeBuilder()
         .inputs(item('gregtechfoodoption:gtfo_leaves_1:12'))
         .fluidOutputs(fluid('gtfo_rainbow_sap') * 10)
         .duration(200)
         .EUt(32)
+        .buildAndRegister()
+
+mods.gregtech.lathe.recipeBuilder()
+        .inputs(metaitem('plateNetherStar'))
+        .outputs(metaitem('dustSmallNetherStar') * 1)
+        .chancedOutput(metaitem('dustSmallNetherStar') * 3, 2000, 1000)
+        .chancedOutput(metaitem('lensNetherStar'), 1500, 1000)
+        .duration(400)
+        .EUt(128)
         .buildAndRegister()

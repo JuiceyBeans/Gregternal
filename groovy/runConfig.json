@@ -15,6 +15,7 @@
       "preInit/"
     ],
     "postInit": [
+      "prePostInit/removal.groovy",
       "prePostInit/",
       "postInit/"
     ]

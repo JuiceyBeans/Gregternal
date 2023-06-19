@@ -7,7 +7,6 @@ import gregtech.api.fluids.fluidType.FluidType;
 
 println("[Gregternal] Started registering materials!")
 Elements.add(149, 264, -1, null, "Draconium", "Dc", false)
-Elements.add(149, 267, -1, null, "DraconiumAwakened", "Dc*", false)
 
 // register an event listener
 event_manager.listen { MaterialEvent event ->
@@ -28,17 +27,22 @@ event_manager.listen { MaterialEvent event ->
 		.flags("generate_plate", "generate_rod", "generate_gear", "generate_dense")
 		.build()
 
-	new Material.Builder(32002, "awakened_draconium")
-		.ingot().fluid()
-		.element("Draconic")
-		.color(0xf58742).iconSet("metallic")
-		.flags("no_smelting", "generate_plate", "generate_rod", "generate_gear")
-		.build()
-
-	new Material.Builder(32002, "neutronium_grout")
+	new Material.Builder(32003, "neutronium_grout")
 	.ingot().fluid()
-	.color(0x030303).iconSet("shiny")
+	.color(0x737373).iconSet("shiny")
 	.components(material('neutronium') * 1, material('stone') * 2)
+	.build()
+
+	new Material.Builder(32004, "ender_ingot")
+	.ingot().dust()
+	.color(0x1b5423).iconSet("shiny")
+	.components(material('iron') * 1, material('beryllium') * 1, material('potassium') * 4, material('nitrogen')* 5)
+	.flags("generate_plate")
+	.build()
+
+	new Material.Builder(32005, "estradiol")
+	.fluid()
+	.color(0xca90d6).iconSet("shiny")
 	.build()
 }
 

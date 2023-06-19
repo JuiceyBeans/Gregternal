@@ -1,28 +1,32 @@
 import net.minecraft.item.ItemStack
 import net.minecraft.item.Item
 
-println("[Gregternal] Creating content")
+println("[Gregternal] Started creating content!")
 
-def int itemsCreated = 0
-def int blocksCreated = 0
+def int itemsCreated = 4
+def int blocksCreated = 3
 
 static void createItem(String name){
         content.createItem(name)
             .register()
-        def itemsCreated ++ 1
-        
 }
 
 static void createBlock(String name){
         content.createBlock(name)
             .register()
-        def blocksCreated ++ 1
-        
 }
 
 createItem('grout_brick')
 createItem('poor_charcoal')
-createBlock('cosmic_brick')
+createItem('crystal_matrix_processor')
+createItem('crystal_matrix_lens')
+println("[Gregternal] Created " + itemsCreated + " items!")
 
-println("[Gregternal] Created " + itemsCreated + "items!")
-println("[Gregternal] Created " + blocksCreated + "blocks!")
+createBlock('cosmic_brick')
+createBlock('crystal_fusion_glass')
+
+mods.gregtech.blocksHeatingCoils.add(item('dirt'), "dirt", 1400, 2, 4, 3, null)
+
+println("[Gregternal] Created " + blocksCreated + " blocks!")
+
+println("[Gregternal] Finished creating content!")
