@@ -1,17 +1,35 @@
-import net.minecraft.item.ItemStack
-import net.minecraft.item.Item
+import net.minecraft.item.EnumRarity
+import net.minecraftforge.common.IRarity
 
 println("[Gregternal] Started creating content!")
 
-def int itemsCreated = 4
-def int blocksCreated = 3
+def int itemsCreated = 0
+def int blocksCreated = 0
 
-static void createItem(String name){
+void createItem(String name){
         content.createItem(name)
             .register()
 }
 
-static void createBlock(String name){
+void createUncommonItem(String name){
+        content.createItem(name)
+            .setRarity(EnumRarity.UNCOMMON)
+            .register()
+}
+
+void createRareItem(String name){
+        content.createItem(name)
+            .setRarity(EnumRarity.RARE)
+            .register()
+}
+
+void createEpicItem(String name){
+        content.createItem(name)
+            .setRarity(EnumRarity.EPIC)
+            .register()
+}
+
+void createBlock(String name){
         content.createBlock(name)
             .register()
 }
@@ -20,12 +38,39 @@ createItem('grout_brick')
 createItem('poor_charcoal')
 createItem('crystal_matrix_processor')
 createItem('crystal_matrix_lens')
+createItem('unformed_goggles')
+
+createRareItem('thaumic_goggles')
+createRareItem('eternal_hat')
+createRareItem('argent_sign')
+createRareItem('gregorioust')
+
+createEpicItem('gregternal')
+
+//Custom items
+content.createItem('twilight_catalyst')
+    .setEnchantedEffect() 
+    .setRarity(EnumRarity.UNCOMMON)
+    .register()
+
+content.createItem('argent_matter')
+    .setEnchantedEffect() 
+    .setRarity(EnumRarity.UNCOMMON)
+    .register()
+
+content.createItem('flux')
+    .setEnchantedEffect() 
+    .setRarity(EnumRarity.UNCOMMON)
+    .register()
+
 println("[Gregternal] Created " + itemsCreated + " items!")
 
 createBlock('cosmic_brick')
 createBlock('crystal_fusion_glass')
+createBlock('argent_frame_box')
+createBlock('argent_casing')
 
-mods.gregtech.blocksHeatingCoils.add(item('dirt'), "dirt", 1400, 2, 4, 3, null)
+//mods.gregtech.blocks.HeatingCoils.add(<blockstate:minecraft:dirt:variant=dirt,snowy=false>, "dirt", 1400, 2, 4, 3, null)
 
 println("[Gregternal] Created " + blocksCreated + " blocks!")
 

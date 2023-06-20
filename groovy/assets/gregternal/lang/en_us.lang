@@ -1,12 +1,25 @@
 item.gregternal.grout_brick.name=Grout Brick
 item.gregternal.poor_charcoal.name=Poor Charcoal
+item.gregternal.twilight_catalyst.name=Twilight Catalyst    
 item.gregternal.crystal_matrix_processor.name=Crystal Matrix Processor
 item.gregternal.crystal_matrix_lens.name=Crystal Matrix Lens
+item.gregternal.unformed_goggles.name=Unformed Goggles of Revealing
+item.gregternal.thaumic_goggles.name=Goggles of Revealing
+item.gregternal.eternal_hat.name=Hat of Eternity
+item.gregternal.argent_sign.name=Argent-powered Sign
+item.gregternal.gregternal.name=Gregternal.
+item.gregternal.gregorioust.name=GregoriousT
+item.gregternal.argent_matter.name=Argent Matter
+item.gregternal.flux.name=Thaumic Flux
 
 tile.gregternal.cosmic_brick.name=Cosmic Neutronium-infused Seared Bricks
 tile.gregternal.crystal_fusion_glass.name=Crystal Fusion Glass
+tile.gregternal.argent_controller.name=Argent Reactor Controller
 
-material.Draconium.name=Draconium
-material.Draconic.name=Awakened Draconium
-material.titanium_aluminide.name=Titanium Aluminide
-material.neutronium_grout.name=Neutronium-infused Grout
+material.flux_matter=Flux Matter
+material.argent=Argent
+material.draconium=Draconium
+material.draconic=Awakened Draconium
+material.titanium_aluminide=Titanium Aluminide
+material.neutronium_grout=Neutronium-infused Grout
+material.estradiol=\u00A7dEstradiol

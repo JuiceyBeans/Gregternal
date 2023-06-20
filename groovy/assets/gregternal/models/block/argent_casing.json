@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gregternal:blocks/argent_casing"
+  }
+}

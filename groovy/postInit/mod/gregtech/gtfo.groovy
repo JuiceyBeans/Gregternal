@@ -1,0 +1,6 @@
+mods.gregtech.extractor.recipeBuilder()
+        .inputs(item('gregtechfoodoption:gtfo_leaves_1:12'))
+        .fluidOutputs(fluid('gtfo_rainbow_sap') * 10)
+        .duration(200)
+        .EUt(32)
+        .buildAndRegister()

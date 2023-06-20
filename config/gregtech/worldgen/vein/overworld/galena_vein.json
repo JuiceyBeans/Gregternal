@@ -24,10 +24,10 @@
         "secondary": "ore:galena"
       },
       {
-        "between": "ore:silver"
+        "between": "ore:lead"
       },
       {
-        "sporadic": "ore:lead"
+        "sporadic": "ore:silver"
       }
     ]
   }

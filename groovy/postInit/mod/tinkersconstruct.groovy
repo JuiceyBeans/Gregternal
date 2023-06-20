@@ -9,3 +9,11 @@ crafting.replaceShapeless('crafting_station', item('tconstruct:tooltables:0'), [
 crafting.replaceShapeless('pattern', item('tconstruct:pattern:0'), [item('minecraft:paper'), item('minecraft:paper'), ore('stickWood'), ore('stickWood')])
 
 furnace.add(item('gregternal:grout_brick'), item('tconstruct:materials:0'), 0.5f)
+
+mods.gregtech.centrifuge.recipeBuilder()
+        .inputs(ore('blockSlimeCongealed') * 8)
+        .outputs(metaitem('dustRawRubber'))
+        .fluidOutputs(fluid('glue') * 100)
+        .duration(40)
+        .EUt(32)
+        .buildAndRegister()
