@@ -49,7 +49,7 @@ mods.gregtech.chemical_bath.recipeBuilder()
     .buildAndRegister()
 
 mods.gregtech.assembler.recipeBuilder()
-        .inputs(item('extendedcrafting:material:2'), metaitem('plateDoubleWroughtIron') * 2)
+        .inputs(item('extendedcrafting:material:2'), metaitem('plateWroughtIron') * 2)
         .outputs(item('extendedcrafting:material:14'))
         .duration(40)
         .EUt(32)
@@ -94,15 +94,15 @@ mods.gregtech.mixer.recipeBuilder()
 mods.gregtech.forge_hammer.recipeBuilder()
     .inputs(item('extendedcrafting:material:0') * 3)
     .outputs(item('extendedcrafting:material:2') * 2)
-    .duration(40)
-    .EUt(64)
+    .duration(400)
+    .EUt(4)
     .buildAndRegister()
 
 mods.gregtech.bender.recipeBuilder()
     .inputs(item('extendedcrafting:material:0'))
     .outputs(item('extendedcrafting:material:2'))
-    .duration(40)
-    .EUt(64)
+    .duration(100)
+    .EUt(16)
     .buildAndRegister()
 
 mods.gregtech.lathe.recipeBuilder()
@@ -111,3 +111,9 @@ mods.gregtech.lathe.recipeBuilder()
     .duration(40)
     .EUt(64)
     .buildAndRegister()
+
+crafting.addShaped('basic_component_manual', item('extendedcrafting:material:14'), [
+        [ore('toolHammer'), metaitem('plateDoubleWroughtIron'), ore('toolFile')],
+        [metaitem('plateDoubleWroughtIron'), item('extendedcrafting:material:2'), metaitem('plateDoubleWroughtIron')],
+        [ore('toolSaw'), metaitem('plateDoubleWroughtIron'), ore('toolWrench')]
+])

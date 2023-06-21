@@ -55,3 +55,13 @@ crafting.shapedBuilder()
         .key('s', ore('slabWood'))
         .replace()
         .register()
+
+crafting.shapedBuilder()
+        .name('clay_block_manual')
+        .output(item('minecraft:clay') * 2)
+        .matrix('ccc',
+                'cTc',
+                'ccc')
+        .key('c', item('minecraft:clay_ball'))
+        .key('T', fluid('water'))
+        .register()

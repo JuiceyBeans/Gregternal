@@ -3,7 +3,7 @@ mods.extendedcrafting.tablecrafting.shapedBuilder()
         .matrix('BeB',
                 'LDE',
                 'BFB')
-        .key('B', item('minecraft:blaze_rod'))
+        .key('B', ore('circuitLv'))
         .key('L', metaitem('gemFlawlessLapis'))
         .key('D', metaitem('gemFlawlessDiamond'))
         .key('E', metaitem('gemFlawlessEmerald'))

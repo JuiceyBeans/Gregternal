@@ -12,7 +12,7 @@ mods.extendedcrafting.combinationcrafting.recipeBuilder()
     .output(item('gregternal:gregternal'))
     .input(metaitem('nan.certificate'))
     .pedestals(item('gregternal:gregorioust'), item('gregternal:eternal_hat'), item('gregternal:argent_sign'), item('gregternal:thaumic_goggles'))
-    .register() //Registers your recipe. Very important!
+    .register()
 
 mods.extendedcrafting.tablecrafting.shapedBuilder()
     .output(item('gregternal:gregorioust'))

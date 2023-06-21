@@ -1,0 +1,1 @@
+crafting.replaceShapeless('barley_flour', item('natura:materials:1') * 2, [item('natura:materials:0'), ore('toolMortar')])
