@@ -1,12 +1,13 @@
 //Add ore dictionary
-//oredict.add("craftingTableWood", item('minecraft:crafting_table'))
-//oredict.add("craftingTableWood", item('tconstruct:tooltables:0'))
-//oredict.add("craftingTableWood", metaitem('gregtech:workbench'))
-//oredict.add("cobblestone", item('gregtech:stone_cobble:1'))
-//oredict.add("cobblestone", item('gregtech:stone_cobble:2'))
-//oredict.add("cobblestone", item('gregtech:stone_cobble:3'))
-//oredict.add("cobblestone", item('gregtech:stone_cobble:4'))
-//oredict.add("cobblestone", item('gregtech:stone_cobble:5'))
+oredict.add("craftingTableWood", item('minecraft:crafting_table'))
+oredict.add("craftingTableWood", item('tconstruct:tooltables:0'))
+oredict.add("craftingTableWood", metaitem('gregtech:workbench'))
+
+oredict.add("cobblestone", item('gregtech:stone_cobble:1'))
+oredict.add("cobblestone", item('gregtech:stone_cobble:2'))
+oredict.add("cobblestone", item('gregtech:stone_cobble:3'))
+oredict.add("cobblestone", item('gregtech:stone_cobble:4'))
+oredict.add("cobblestone", item('gregtech:stone_cobble:5'))
 
 oredict.add("bigBackpack", item('backpack:backpack:200'))
 oredict.add("bigBackpack", item('backpack:backpack:201'))
