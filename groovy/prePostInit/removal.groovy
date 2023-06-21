@@ -54,7 +54,6 @@ def recipesToRemove = [
     'ironchest:chest/gold/iron_gold_chest',
     'ironchest:chest/diamond/gold_diamond_chest',
     'ironchest:chest/diamond/silver_diamond_chest',
-    'gregtech:clay_block_to_dust',
     'travelersbackpack:travelers_backpack_standard'
 ]
 

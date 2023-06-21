@@ -36,10 +36,13 @@ void createBlock(String name){
 
 createItem('grout_brick')
 createItem('poor_charcoal')
+createItem('leaf_bundle')
+createItem('poor_cloth_bolt')
 createItem('crystal_matrix_processor')
 createItem('crystal_matrix_lens')
 createItem('unformed_goggles')
 
+//Endgame content
 createRareItem('thaumic_goggles')
 createRareItem('eternal_hat')
 createRareItem('argent_sign')
@@ -67,8 +70,6 @@ println("[Gregternal] Created " + itemsCreated + " items!")
 
 createBlock('cosmic_brick')
 createBlock('crystal_fusion_glass')
-createBlock('argent_frame_box')
-createBlock('argent_casing')
 
 //mods.gregtech.blocks.HeatingCoils.add(<blockstate:minecraft:dirt:variant=dirt,snowy=false>, "dirt", 1400, 2, 4, 3, null)
 
