@@ -56,12 +56,4 @@ crafting.shapedBuilder()
         .replace()
         .register()
 
-crafting.shapedBuilder()
-        .name('clay_block_manual')
-        .output(item('minecraft:clay') * 2)
-        .matrix('ccc',
-                'cTc',
-                'ccc')
-        .key('c', item('minecraft:clay_ball'))
-        .key('T', fluid('water'))
-        .register()
+crafting.addShapeless('clay_block_from_balls', item('minecraft:clay'), [item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball'), item('minecraft:clay_ball')])
