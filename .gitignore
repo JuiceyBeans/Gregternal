@@ -27,6 +27,12 @@ data/
 # Developer mods
 mods/Caliper-1.12.2-1.1.46.jar
 mods/Essential-Forge-1.12.2.jar
+config/jei/worldSettings.cfg
+config/Actually Advanced Info.cfg
+config/InvTweaks/InvTweaks.cfg
+config/splash.properties
+mods/AAInfo-1.0.1.jar
+mods/AAInfo-1.0.1.jar.disabled
 
 #Prism files
 .curseclient
@@ -50,14 +56,9 @@ config/splash.properties
 config/brandon3055/contributors.json
 config/InvTweaks/InvTweaks.cfg
 config/betterquesting.cfg
-config/jei/worldSettings.cfg
-config/Actually Advanced Info.cfg
-config/InvTweaks/InvTweaks.cfg
-config/splash.properties
-mods/AAInfo-1.0.1.jar
-mods/AAInfo-1.0.1.jar.disabled
 config/AppliedEnergistics2/VersionChecker.cfg
 config/tconstruct_oredictcache.dat
 config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
 config/activity.json
+config/infernalmobs.cfg
