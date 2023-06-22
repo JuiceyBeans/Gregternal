@@ -62,3 +62,4 @@ config/AppliedEnergistics2/CustomRecipes.cfg
 config/AppliedEnergistics2/items.csv
 config/activity.json
 config/infernalmobs.cfg
+config/startuptimer/startup_times.json
