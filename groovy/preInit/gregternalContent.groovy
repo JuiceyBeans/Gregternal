@@ -35,7 +35,7 @@ void createBlock(String name){
 }
 
 //Items
-def itemsToCreate [
+def itemsToCreate = [
     'grout_brick',
     'poor_charcoal',
     'leaf_bundle',
@@ -43,7 +43,8 @@ def itemsToCreate [
     'crystal_matrix_processor',
     'crystal_matrix_lens',
     'unformed_goggles',
-    'unsignedlongint'
+    'unsignedlongint',
+    'hoal'
 ]
 
 for(item in itemsToCreate) {
@@ -53,9 +54,9 @@ for(item in itemsToCreate) {
 createItem('boston_pumpkin')
 
 //Blocks
-def blocksToCreate [
+def blocksToCreate = [
     'cosmic_brick',
-    'poor_chaborosilicate_glassrcoal',
+    'borosilicate_glass_coal',
     'crystal_fusion_glass',
 ]
 
