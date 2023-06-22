@@ -8,12 +8,12 @@
     "detectCurseManifest": true,
     "detectMultiMCManifest": true,
     "detectMCUpdaterInstance": true,
-    "detectTechnicPack": true,
-    "detectBiomeData": true,
-    "detectDimensionData": true,
+    "detectTechnicPack": false,
+    "detectBiomeData": false,
+    "detectDimensionData": false,
     "detectWorldData": true,
     "clientId": "450485984333660181",
-    "defaultIcon": "grass",
+    "defaultIcon": "Gregternal",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
@@ -57,7 +57,25 @@
       "textOverride": "Playing on a LAN Server"
     },
     "singleplayerData": {
-      "textOverride": "Playing Singleplayer"
+      "textOverride": "Playing Singleplayer",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
     }
   },
   "advancedSettings": {
@@ -181,7 +199,9 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png"
+      "default": "https://via.placeholder.com/256.png",
+      "Gregternal": "https://i.imgur.com/IDLf55W.png",
+      "juiceyylmao": "https://mc-heads.net/avatar/d7dfa46751b94beb9a4024ec2c2b8759"
     },
     "dynamicVariables": {
       "default": "Example Text",
