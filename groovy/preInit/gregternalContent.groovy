@@ -35,21 +35,33 @@ void createBlock(String name){
 }
 
 //Items
-createItem('grout_brick')
-createItem('poor_charcoal')
-createItem('leaf_bundle')
-createItem('poor_cloth_bolt')
-createItem('crystal_matrix_processor')
-createItem('crystal_matrix_lens')
-createItem('unformed_goggles')
+def itemsToCreate [
+    'grout_brick',
+    'poor_charcoal',
+    'leaf_bundle',
+    'poor_cloth_bolt',
+    'crystal_matrix_processor',
+    'crystal_matrix_lens',
+    'unformed_goggles',
+    'unsignedlongint'
+]
 
+for(item in itemsToCreate) {
+    createItem()
+}
 //Foods
 createItem('boston_pumpkin')
 
 //Blocks
-createBlock('cosmic_brick')
-createBlock('crystal_fusion_glass')
-createBlock('borosilicate_glass')
+def blocksToCreate [
+    'cosmic_brick',
+    'poor_chaborosilicate_glassrcoal',
+    'crystal_fusion_glass',
+]
+
+for(item in blocksToCreate) {
+    createBlock()
+}
 
 println("[Gregternal] Created " + blocksCreated + " blocks!")
 
