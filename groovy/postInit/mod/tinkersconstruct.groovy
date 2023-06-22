@@ -1,7 +1,19 @@
-crafting.replaceShaped('stencil_table', item('tconstruct:tooltables:1'), [
+crafting.addShaped('stencil_table', item('tconstruct:tooltables:1'), [
         [null, item('tconstruct:pattern'), null],
-        [item('minecraft:wooden_slab'), item('minecraft:wooden_slab'), item('minecraft:wooden_slab')],
+        [ore('slabWood'), ore('slabWood'), ore('slabWood')],
         [item('minecraft:fence'), null, item('minecraft:fence')]
+])
+
+crafting.addShaped('part_builder', item('tconstruct:tooltables:2'), [
+        [null, item('tconstruct:pattern'), null],
+        [ore('logWood'), ore('logWood'), ore('logWood')],
+        [item('minecraft:fence'), null, item('minecraft:fence')]
+])
+
+crafting.addShaped('tool_table', item('tconstruct:tooltables:3'), [
+        [null, item('tconstruct:pattern'), null],
+        [ore('slabWood'), ore('slabWood'), ore('slabWood')],
+        [ore('logWood'), null, ore('logWood')]
 ])
 
 crafting.addShapeless('groutbricks', item('gregternal:grout_brick') * 2, [metaitem('wooden_form.brick'), item('tconstruct:soil:0')])
