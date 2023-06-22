@@ -34,6 +34,7 @@ void createBlock(String name){
             .register()
 }
 
+//Items
 createItem('grout_brick')
 createItem('poor_charcoal')
 createItem('leaf_bundle')
@@ -41,7 +42,16 @@ createItem('poor_cloth_bolt')
 createItem('crystal_matrix_processor')
 createItem('crystal_matrix_lens')
 createItem('unformed_goggles')
+
+//Foods
 createItem('boston_pumpkin')
+
+//Blocks
+createBlock('cosmic_brick')
+createBlock('crystal_fusion_glass')
+createBlock('borosilicate_glass')
+
+println("[Gregternal] Created " + blocksCreated + " blocks!")
 
 //Endgame content
 createRareItem('thaumic_goggles')
@@ -69,11 +79,6 @@ content.createItem('flux')
 
 println("[Gregternal] Created " + itemsCreated + " items!")
 
-createBlock('cosmic_brick')
-createBlock('crystal_fusion_glass')
-
 //mods.gregtech.blocks.HeatingCoils.add(<blockstate:minecraft:dirt:variant=dirt,snowy=false>, "dirt", 1400, 2, 4, 3, null)
-
-println("[Gregternal] Created " + blocksCreated + " blocks!")
 
 println("[Gregternal] Finished creating content!")
