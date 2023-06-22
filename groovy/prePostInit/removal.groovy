@@ -62,6 +62,10 @@ for(name in recipesToRemove) {
 }
 
 crafting.removeByOutput(item('tconstruct:tooltables:1'))
+crafting.removeByOutput(item('tconstruct:tooltables:2'))
+crafting.removeByOutput(item('tconstruct:tooltables:3'))
+crafting.removeByOutput(item('tconstruct:tooltables:4'))
+crafting.removeByOutput(item('tconstruct:tooltables:5'))
 crafting.removeByOutput(item('extendedcrafting:material:14'))
 crafting.removeByOutput(item('extendedcrafting:material:15'))
 crafting.removeByOutput(item('extendedcrafting:material:16'))
