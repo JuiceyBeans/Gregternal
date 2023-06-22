@@ -41,6 +41,7 @@ createItem('poor_cloth_bolt')
 createItem('crystal_matrix_processor')
 createItem('crystal_matrix_lens')
 createItem('unformed_goggles')
+createItem('boston_pumpkin')
 
 //Endgame content
 createRareItem('thaumic_goggles')
