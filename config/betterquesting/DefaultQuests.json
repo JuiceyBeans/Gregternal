@@ -193,23 +193,6 @@
           "allowAnvil:1": 0,
           "allowCraft:1": 1,
           "allowSmelt:1": 1,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "partialMatch:1": 1,
-          "requiredItems:9": {
-            "0:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "tconstruct:pattern"
-            }
-          },
-          "taskID:8": "bq_standard:crafting"
-        },
-        "1:10": {
-          "allowAnvil:1": 0,
-          "allowCraft:1": 1,
-          "allowSmelt:1": 1,
           "ignoreNBT:1": 1,
           "index:3": 1,
           "partialMatch:1": 1,
@@ -324,7 +307,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "New Quest",
+          "name:8": "First tools",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -336,8 +319,150 @@
         }
       },
       "questID:3": 4,
-      "rewards:9": {},
-      "tasks:9": {}
+      "rewards:9": {
+        "0:10": {
+          "choices:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:tool_rod",
+              "tag:10": {
+                "Material:8": "apatite"
+              }
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:tool_rod",
+              "tag:10": {
+                "Material:8": "sky_stone"
+              }
+            },
+            "2:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:tool_rod",
+              "tag:10": {
+                "Material:8": "prismarine"
+              }
+            }
+          },
+          "index:3": 0,
+          "rewardID:8": "bq_standard:choice"
+        },
+        "1:10": {
+          "index:3": 1,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:sharpening_kit",
+              "tag:10": {
+                "Material:8": "flint"
+              }
+            }
+          }
+        },
+        "2:10": {
+          "choices:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "sponge"
+              }
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "electrum"
+              }
+            },
+            "2:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "pigiron"
+              }
+            }
+          },
+          "index:3": 2,
+          "rewardID:8": "bq_standard:choice"
+        },
+        "3:10": {
+          "choices:9": {
+            "0:10": {
+              "Count:3": 2,
+              "Damage:2": 2,
+              "OreDict:8": "",
+              "id:8": "natura:nether_planks"
+            },
+            "1:10": {
+              "Count:3": 2,
+              "Damage:2": 1,
+              "OreDict:8": "",
+              "id:8": "natura:nether_planks"
+            },
+            "2:10": {
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "natura:nether_planks"
+            }
+          },
+          "index:3": 3,
+          "rewardID:8": "bq_standard:choice"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:pickaxe",
+              "tag:10": {}
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 2,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "minecraft:stone"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
     },
     "5:10": {
       "preRequisites:11": [
@@ -657,9 +782,9 @@
           "taskID:8": "bq_standard:optional_retrieval"
         },
         "1:10": {
-          "allowAnvil:1": 0,
-          "allowCraft:1": 1,
-          "allowSmelt:1": 1,
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 1,
           "partialMatch:1": 1,
@@ -671,7 +796,7 @@
               "id:8": "tconstruct:pattern"
             }
           },
-          "taskID:8": "bq_standard:crafting"
+          "taskID:8": "bq_standard:retrieval"
         }
       }
     },
