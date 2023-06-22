@@ -47,7 +47,7 @@ def itemsToCreate [
 ]
 
 for(item in itemsToCreate) {
-    createItem()
+    createItem(item)
 }
 //Foods
 createItem('boston_pumpkin')
@@ -60,7 +60,7 @@ def blocksToCreate [
 ]
 
 for(item in blocksToCreate) {
-    createBlock()
+    createBlock(block)
 }
 
 println("[Gregternal] Created " + blocksCreated + " blocks!")
