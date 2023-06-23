@@ -92,6 +92,4 @@ content.createItem('flux')
 
 println("[Gregternal] Created " + itemsCreated + " items!")
 
-//mods.gregtech.blocks.HeatingCoils.add(<blockstate:minecraft:dirt:variant=dirt,snowy=false>, "dirt", 1400, 2, 4, 3, null)
-
 println("[Gregternal] Finished creating content!")
