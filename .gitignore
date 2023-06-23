@@ -21,6 +21,8 @@ craftpresence/
 patchouli_books/
 essential/
 data/
+config/enderio/recipes
+config/enderio/recipes/examples
 
 .vscode/
 
@@ -50,6 +52,7 @@ patchouli_data.json
 *.txt
 *.dll
 *.disabled
+*.pdf
 
 #Client-sided configs
 config/splash.properties
