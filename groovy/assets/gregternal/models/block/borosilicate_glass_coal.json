@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "gregternal:blocks/borosilicate_glass_coal"
+  }
+}
