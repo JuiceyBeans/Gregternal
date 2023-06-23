@@ -16,6 +16,19 @@ crafting.addShaped('tool_table', item('tconstruct:tooltables:3'), [
         [ore('logWood'), null, ore('logWood')]
 ])
 
+crafting.addShaped('copper_head', item('tconstruct:pick_head').withNbt(["Material": "copper"]), [
+        [ore('toolHammer'), null, ore('toolSaw')],
+        [ore('ingotCopper'), item('tconstruct:pattern').withNbt(["PartType": "tconstruct:pick_head"]), ore('ingotCopper')],
+        [ore('ingotCopper'), ore('ingotCopper'), ore('ingotCopper')]
+])
+
+crafting.addShaped('tin_head', item('tconstruct:pick_head').withNbt(["Material": "tin"]), [
+        [ore('toolHammer'), null, ore('toolSaw')],
+        [ore('ingotTin'), item('tconstruct:pattern').withNbt(["PartType": "tconstruct:pick_head"]), ore('ingotTin')],
+        [ore('ingotTin'), ore('ingotTin'), ore('ingotTin')]
+])
+
+
 crafting.addShapeless('groutbricks', item('gregternal:grout_brick') * 2, [metaitem('wooden_form.brick'), item('tconstruct:soil:0')])
 
 crafting.replaceShapeless('crafting_station', item('tconstruct:tooltables:0'), [ore('toolSaw'), ore('craftingTableWood')])
