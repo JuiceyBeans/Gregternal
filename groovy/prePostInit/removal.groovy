@@ -64,8 +64,6 @@ for(name in recipesToRemove) {
 crafting.removeByOutput(item('tconstruct:tooltables:1'))
 crafting.removeByOutput(item('tconstruct:tooltables:2'))
 crafting.removeByOutput(item('tconstruct:tooltables:3'))
-crafting.removeByOutput(item('tconstruct:tooltables:4'))
-crafting.removeByOutput(item('tconstruct:tooltables:5'))
 crafting.removeByOutput(item('extendedcrafting:material:14'))
 crafting.removeByOutput(item('extendedcrafting:material:15'))
 crafting.removeByOutput(item('extendedcrafting:material:16'))
@@ -76,6 +74,8 @@ crafting.removeByOutput(item('extendedcrafting:material:19'))
 furnace.removeByInput(item('tconstruct:soil:0'))
 furnace.removeByInput(item('backpack:bound_leather'))
 furnace.removeByInput(item('biomesoplenty:white_sand'))
+
+mods.tinkersconstruct.Alloying.removeByOutput(fluid('pigiron'))
 
 mods.gregtech.lathe.removeByInput(120, [metaitem('plateNetherStar')], null)
 mods.gregtech.compressor.removeByInput(4, [metaitem('dustFireclay')], null)

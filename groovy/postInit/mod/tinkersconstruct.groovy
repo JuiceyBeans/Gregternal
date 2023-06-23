@@ -1,3 +1,6 @@
+mods.tinkersconstruct.melting.entityMelting.add(entity('minecraft:pig'), fluid('molten_pig') * 9)
+mods.tinkersconstruct.alloying(fluid('pigiron') * 144, [fluid('molten_pig') * 72, fluid('stainless_steel') * 72])
+
 crafting.addShaped('stencil_table', item('tconstruct:tooltables:1'), [
         [null, item('tconstruct:pattern'), null],
         [ore('slabWood'), ore('slabWood'), ore('slabWood')],
