@@ -76,6 +76,7 @@ furnace.removeByInput(item('backpack:bound_leather'))
 furnace.removeByInput(item('biomesoplenty:white_sand'))
 
 mods.tinkersconstruct.Alloying.removeByOutput(fluid('pigiron'))
+mods.tinkersconstruct.Alloying.removeByOutput(fluid('alumite'))
 
 mods.gregtech.lathe.removeByInput(120, [metaitem('plateNetherStar')], null)
 mods.gregtech.compressor.removeByInput(4, [metaitem('dustFireclay')], null)
