@@ -372,39 +372,6 @@
           "choices:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "tconstruct:binding",
-              "tag:10": {
-                "Material:8": "sponge"
-              }
-            },
-            "1:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "tconstruct:binding",
-              "tag:10": {
-                "Material:8": "electrum"
-              }
-            },
-            "2:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "tconstruct:binding",
-              "tag:10": {
-                "Material:8": "ardite"
-              }
-            }
-          },
-          "index:3": 2,
-          "rewardID:8": "bq_standard:choice"
-        },
-        "3:10": {
-          "choices:9": {
-            "0:10": {
-              "Count:3": 1,
               "Damage:2": 2,
               "OreDict:8": "",
               "id:8": "natura:nether_planks"
@@ -1731,7 +1698,41 @@
         }
       },
       "questID:3": 26,
-      "rewards:9": {},
+      "rewards:9": {
+        "0:10": {
+          "choices:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "drulloy"
+              }
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "sponge"
+              }
+            },
+            "2:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "tconstruct:binding",
+              "tag:10": {
+                "Material:8": "certus_quartz"
+              }
+            }
+          },
+          "index:3": 0,
+          "rewardID:8": "bq_standard:choice"
+        }
+      },
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
