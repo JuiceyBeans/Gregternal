@@ -60,7 +60,7 @@ def blocksToCreate = [
     'crystal_fusion_glass',
 ]
 
-for(item in blocksToCreate) {
+for(block in blocksToCreate) {
     createBlock(block)
 }
 
