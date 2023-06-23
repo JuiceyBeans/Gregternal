@@ -75,7 +75,7 @@ crafting.addShapeless('neutronium_ingot_conversion', item('avaritia:resource:4')
 crafting.addShapeless('neutronium_nugget_conversion', item('avaritia:resource:3'), [metaitem('nuggetNeutronium')])
 
 crafting.replaceShapeless('clay_block_to_dust', metaitem('dustClay') * 1, [item('minecraft:clay'), ore('toolMortar')])
-crafting.addShapeless('bronze_dust_manual', metaitem('dustBronze') * 2, [metaitem('dustCopper'), metaitem('dustCopper'), metaitem('dustCopper'), metaitem('dustTin')])
+crafting.addShapeless('bronze_dust_manual', metaitem('dustBronze') * 3, [metaitem('dustCopper'), metaitem('dustCopper'), metaitem('dustCopper'), ore('dustTin')])
 
 mods.gregtech.lathe.recipeBuilder()
         .inputs(metaitem('plateNetherStar'))

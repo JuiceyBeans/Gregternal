@@ -41,3 +41,15 @@ crafting.shapedBuilder()
         .key('M', ore('toolMallet'))
         .mirrored()
         .register()
+
+crafting.shapedBuilder()
+        .name('iron_butchery_knife')
+        .output(item('gregtech:butchery_knife').withNbt(["DisallowContainerItem": (byte) 0, "GT.Tool": ["Material": "iron", "MaxDurability": 256, "Durability": 0, "AttackDamage": 3.5F, "AttackSpeed": -1.3F, "HarvestLevel": 2], "HideFlags": 2, "ench": [["id": 21, "lvl": (short) 3]], "GT.Behaviours": []]))
+        .matrix('PPF',
+                'PP ',
+                'RH ')
+        .key('P', metaitem('plateIron'))
+        .key('R', metaitem('stickIron'))
+        .key('F', ore('toolHammer'))
+        .key('H', ore('toolFile'))
+        .register()

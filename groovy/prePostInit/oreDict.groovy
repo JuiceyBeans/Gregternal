@@ -26,3 +26,6 @@ oredict.add("bigBackpack", item('backpack:backpack:213'))
 oredict.add("bigBackpack", item('backpack:backpack:214'))
 oredict.add("bigBackpack", item('backpack:backpack:215'))
 oredict.add("bigBackpack", item('backpack:backpack:216'))
+
+oredict.add("dustTin", metaitem('dustCassiterite'))
+oredict.add("dustTin", metaitem('dustCassiteriteSand'))

@@ -17,6 +17,7 @@ mods.jei.hideCategory('appliedenergistics2.grinder')
 
 //Remove recipes
 def recipesToRemove = [
+    'endercore:shapeless_paper',
     'enderio:tweak_wood_hopper',
     'enderio:tweak_chest_from_wood',
     'quark:hopper',
@@ -54,22 +55,38 @@ def recipesToRemove = [
     'ironchest:chest/gold/iron_gold_chest',
     'ironchest:chest/diamond/gold_diamond_chest',
     'ironchest:chest/diamond/silver_diamond_chest',
-    'travelersbackpack:travelers_backpack_standard'
+    'travelersbackpack:travelers_backpack_standard',
+    'gregtech:dust_bronze'
 ]
 
 for(name in recipesToRemove) {
     crafting.remove(name)
 }
 
-crafting.removeByOutput(item('tconstruct:tooltables:1'))
-crafting.removeByOutput(item('tconstruct:tooltables:2'))
-crafting.removeByOutput(item('tconstruct:tooltables:3'))
-crafting.removeByOutput(item('extendedcrafting:material:14'))
-crafting.removeByOutput(item('extendedcrafting:material:15'))
-crafting.removeByOutput(item('extendedcrafting:material:16'))
-crafting.removeByOutput(item('extendedcrafting:material:17'))
-crafting.removeByOutput(item('extendedcrafting:material:18'))
-crafting.removeByOutput(item('extendedcrafting:material:19'))
+def removeOutputs = [
+
+    'tconstruct:tooltables:1',
+    'tconstruct:tooltables:2',
+    'tconstruct:tooltables:3',
+    'extendedcrafting:material:14',
+    'extendedcrafting:material:15',
+    'extendedcrafting:material:16',
+    'extendedcrafting:material:17',
+    'extendedcrafting:material:18',
+    'extendedcrafting:material:19',
+    'harvestcraft:tool_cuttingboarditem',
+    'harvestcraft:tool_potitem',
+    'harvestcraft:tool_skilletitem',
+    'harvestcraft:tool_saucepanitem',
+    'harvestcraft:tool_bakewareitem',
+    'harvestcraft:tool_mortarandpestleitem',
+    'harvestcraft:tool_mixingbowlitem',
+    'harvestcraft:tool_juiceritem'
+
+]
+for(name in removeOutputs) {
+    crafting.remove(name)
+}
 
 furnace.removeByInput(item('tconstruct:soil:0'))
 furnace.removeByInput(item('backpack:bound_leather'))
