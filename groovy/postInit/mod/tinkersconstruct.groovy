@@ -1,6 +1,6 @@
 mods.tinkersconstruct.melting.entityMelting.add(entity('minecraft:pig'), fluid('molten_pig') * 9)
-mods.tinkersconstruct.alloying(fluid('pigiron') * 2, fluid('molten_pig') * 1, fluid('stainless_steel') * 1)
-mods.tinkersconstruct.alloying(fluid('alumite') * 3, fluid('obsidian') * 2, fluid('steel') * 2, fluid('aluminum') * 5)
+mods.tinkersconstruct.alloying.add(fluid('pigiron') * 2, fluid('molten_pig') * 1, fluid('stainless_steel') * 1)
+mods.tinkersconstruct.alloying.add(fluid('alumite') * 3, fluid('obsidian') * 2, fluid('steel') * 2, fluid('aluminum') * 5)
 
 crafting.addShaped('stencil_table', item('tconstruct:tooltables:1'), [
         [null, item('tconstruct:pattern'), null],
