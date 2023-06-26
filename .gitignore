@@ -66,3 +66,6 @@ config/AppliedEnergistics2/items.csv
 config/activity.json
 config/infernalmobs.cfg
 config/startuptimer/startup_times.json
+config/tool_progression/blocks.cfg
+config/tool_progression/materials.cfg
+config/tool_progression/tools.cfg
