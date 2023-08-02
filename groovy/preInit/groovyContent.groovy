@@ -44,7 +44,8 @@ def itemsToCreate = [
     'crystal_matrix_lens',
     'unformed_goggles',
     'unsignedlongint',
-    'hoal'
+    'hoal',
+    'crushed_granite'
 ]
 
 for(item in itemsToCreate) {

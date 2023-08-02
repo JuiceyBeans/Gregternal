@@ -38,13 +38,13 @@ event_manager.listen { MaterialEvent event ->
 		.iconSet("quartz")
 		.flags("no_unification", "disable_decomposition", "flammable", "generate_rod", "generate_frame")
 		.build()
-	println("[Gregternal] Registered \u00A7cargent matter.")
+	println("[Gregternal] Registered argent matter.")
 
 	new Material.Builder(32007, "flux_matter")
 		.fluid()
 		.color(0x2d0359)
 		.build()
-	println("[Gregternal] Registered \u00A75flux matter.")
+	println("[Gregternal] Registered flux matter.")
 
 	new Material.Builder(32008, "molten_pig")
 		.fluid()
