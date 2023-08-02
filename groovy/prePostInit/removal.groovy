@@ -20,6 +20,7 @@ def recipesToRemove = [
     'endercore:shapeless_paper',
     'enderio:tweak_wood_hopper',
     'enderio:tweak_chest_from_wood',
+    'enderio:tweak_stick_from_wood',
     'quark:hopper',
     'quark:chest',
     'quark:chest_1',
@@ -56,7 +57,8 @@ def recipesToRemove = [
     'ironchest:chest/diamond/gold_diamond_chest',
     'ironchest:chest/diamond/silver_diamond_chest',
     'travelersbackpack:travelers_backpack_standard',
-    'gregtech:dust_bronze'
+    'gregtech:dust_bronze',
+    'atum:stick'
 ]
 
 for(name in recipesToRemove) {
