@@ -1,7 +1,7 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
   "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
-  "_schemaVersion": 5,
+  "_schemaVersion": 6,
   "_lastMCVersionId": 340,
   "generalSettings": {
     "detectATLauncherInstance": true,
@@ -16,7 +16,7 @@
     "defaultIcon": "Gregternal",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
-    "preferredClientLevel": 3,
+    "preferredClientLevel": 2,
     "resetTimeOnInit": false,
     "autoRegister": false
   },
@@ -82,13 +82,10 @@
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
-    "renderTooltips": true,
     "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "roundSize": 3,
-    "includeExtraGuiClasses": false,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
@@ -116,7 +113,9 @@
     },
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
-    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}"
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10
   },
   "accessibilitySettings": {
     "tooltipBackground": {
@@ -175,8 +174,8 @@
     },
     "languageId": "en_us",
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
     "stripExtraGuiElements": false,
+    "renderTooltips": true,
     "configKeyCode": 0
   },
   "displaySettings": {
@@ -201,7 +200,8 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "Gregternal": "https://i.imgur.com/IDLf55W.png",
-      "juiceyylmao": "https://mc-heads.net/avatar/d7dfa46751b94beb9a4024ec2c2b8759"
+      "juiceyylmao": "https://mc-heads.net/avatar/d7dfa46751b94beb9a4024ec2c2b8759",
+      "JuiceyBeans": "https://mc-heads.net/avatar/d7dfa46751b94beb9a4024ec2c2b8759"
     },
     "dynamicVariables": {
       "default": "Example Text",
